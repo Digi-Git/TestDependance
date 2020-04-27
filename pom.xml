@@ -3,7 +3,7 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
     <modules>
-
+        <module>common</module>
         <module>security</module>
         <module>evelin_common</module>
         <module>rdc</module>
@@ -12,7 +12,6 @@
         <module>evelin</module>
         <module>report</module>
         <module>tool_controller</module>
-
         <module>service_mail</module>
 
 
@@ -74,12 +73,6 @@
                 <artifactId>spring-com.dgtd.security-test</artifactId>
                 <version>2.1.6.RELEASE</version>
                 <scope>test</scope>
-            </dependency>
-
-            <dependency>
-                <groupId>com.dgtd</groupId>
-                <artifactId>common</artifactId>
-                <version>0.9.20\%2016-10-19</version>
             </dependency>
 
 

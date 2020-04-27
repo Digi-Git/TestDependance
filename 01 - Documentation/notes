@@ -1,0 +1,24 @@
+Pour accéder à la page de documentation client de swagger
+
+http://domaine:port/ecoleWS/swagger-ui.html
+Cette page est accessible publiquement. Elle permet de retrouver des informations générales comme contact en cas de problème,
+site de communication, présentation des différents services disponibles et paramètres nécessaires pour y accéder
+(pour la maintenance un service "util" est prévu qui permet de vérifier la disponibilité du WS + la version actuelle en
+production
+
+
+Fichiers d'import en base de données :
+ - resources/appinit/userAppend.txt : fichier d'initialisation d'utilisateurs, possibilité de rajouter des
+ utilisateurs dans ce fichier en séparant les données par la touche tabulation
+ Possibilité d'enregistrer des utilisateurs ou de modifier leurs autorisations via le service /user (connection possible
+ via un client type Postman, Insomnia, etc...)
+    -> documentation disponible sur la page swagger pour connaître les modalités de fonctionnement du service
+    -> attention il faut un token valide pour utiliser ce service et être administrateur ou superviseur
+
+ - resources/definitions/dicoutil.JSON : permet de définir les intitulés présents dans les menus déroulants
+ - resources/definitions/localisation.txt : localisations présentes dans la base de données dès l'initialisation
+ - resources/defintions/sousdivision.txt : sous-divisions correspondantes aux localisations
+
+ La configuration dans application properties :
+ digitech.upload-dir : chemin de base pour le téléchargement des fichiers reçus depuis le BO PC
+ digitech.app.dataStore : chemin de base pour le téléchargement des certificats XML

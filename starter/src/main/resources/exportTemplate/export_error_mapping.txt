@@ -1,0 +1,4 @@
+ErrorObject.id	ID
+ErrorObject.date	Date
+ErrorObject.typeError	Type Erreur
+ErrorObject.details	Details

@@ -1,0 +1,7 @@
+<person>
+	<id>@@ID@@</id>                                        <!-- Identifiant unique de la personne (interressé, père ou mère)  -->
+	<role>@@ROLE@@</role>                                  <!-- Rôle de la personne liée à l'acte dans cityweb ex : FATHER = père de l'intéressé(e) si il existe -->
+	<lastName>@@NOM@@</lastName>                           <!-- Nom de la personne, il faudre mettre ici, la concaténation du NOM+POSTNOM+PRENOM -->
+	<firstName>@@PRENOM@@</firstName>                      <!-- Prénom de la personne -->
+	<gender>@@GENRE@@</gender>                             <!-- Sexe (genre) M=Masculin F=Feminin -->
+</person>

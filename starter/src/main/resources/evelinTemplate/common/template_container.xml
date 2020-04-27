@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Created by Liquid XML 2008 (www.liquid-technologies.com) for DIGITECH-->
+<cw:certificates xmlns:cw="http://cityweb.digitech.fr/exchange/certificate">
+	@@CERTIFICATES@@
+</cw:certificates>

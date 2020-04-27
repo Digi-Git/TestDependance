@@ -1,0 +1,7 @@
+idPersonne	Id unique
+dossierByDossierId.noDossier	Numero dossier
+nom	Nom de l'enfant
+postnom	Postnom de l'enfant
+prenom	Prénom de l'enfant
+dateNaissance	date de naissance de l'enfant
+evelinLink	Link Evelin

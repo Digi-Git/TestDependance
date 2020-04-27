@@ -1,6 +1,6 @@
 HELP.md
 /target/
-!.mvn/wrapper/maven-wrapper.jar
+.mvn/wrapper/maven-wrapper.jar
 
 ### STS ###
 .apt_generated
@@ -27,3 +27,27 @@ HELP.md
 
 ### VS Code ###
 .vscode/
+
+\.mvn/
+
+\.svn/
+
+common/target/
+
+evelin/target/
+
+evelin_common/target/
+
+initial/target/
+
+rdc/target/
+
+report/target/
+
+security/target/
+
+service_mail/target/
+
+starter/target/
+
+tool_controller/target/

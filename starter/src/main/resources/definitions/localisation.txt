@@ -1,0 +1,1420 @@
+CodeLocalisation	CodeProvince	Province	CodeVille	Ville	CodeCommuneUrbaine	CommuneUrbaine	CodeTerritoire	Territoire	CodeCommuneRurale	CommuneRural	CodeSecteur	Secteur	CodeChefferie	Chefferie
+2	1	BAS-UELE	1	BUTA	1	Babade								
+3	1	BAS-UELE	1	BUTA	0									
+4	1	BAS-UELE	1	BUTA	2	Dobea								
+5	1	BAS-UELE	1	BUTA	3	Finant								
+6	1	BAS-UELE	1	BUTA	4	Tepatondele								
+7	1	BAS-UELE					1	AKETI	1	Avuru-Duma (chefferie)				
+8	1	BAS-UELE					1	AKETI	2	Avuru-Gatanga (chefferie)				
+9	1	BAS-UELE					1	AKETI	3	Bondongola (chefferie)				
+10	1	BAS-UELE					1	AKETI	4	Mobati-Boyele (chefferie)				
+11	1	BAS-UELE					1	AKETI	1	Kolongwadi (secteur)				
+12	1	BAS-UELE					1	AKETI	2	Mabinza (secteur)				
+13	1	BAS-UELE					1	AKETI	3	Ngbongi (secteur)				
+14	1	BAS-UELE					1	AKETI	4	Yoko (secteur)				
+15	1	BAS-UELE					1	AKETI	5	Aketi (commune)				
+16	1	BAS-UELE					1	AKETI	0		0		0	
+17	1	BAS-UELE					2	ANGO	5	Ezo (chefferie)				
+18	1	BAS-UELE					2	ANGO	6	Mopoy (chefferie)				
+19	1	BAS-UELE					2	ANGO	7	Ngindo (chefferie)				
+20	1	BAS-UELE					2	ANGO	8	Sasa (chefferie)				
+21	1	BAS-UELE					2	ANGO	6	Ango (commune)				
+22	1	BAS-UELE					2	ANGO	0		0		0	
+23	1	BAS-UELE					3	BAMBESA	9	Bakete (chefferie)				
+24	1	BAS-UELE					3	BAMBESA	10	Bokapo (chefferie)				
+25	1	BAS-UELE					3	BAMBESA	11	Bokiba (chefferie)				
+26	1	BAS-UELE					3	BAMBESA	12	Bolungwa (chefferie)				
+27	1	BAS-UELE					3	BAMBESA	13	Makere I (chefferie)				
+28	1	BAS-UELE					3	BAMBESA	14	Makere II (chefferie)				
+29	1	BAS-UELE					3	BAMBESA	15	Makere-Bakete (chefferie)				
+30	1	BAS-UELE					3	BAMBESA	16	Mange (chefferie)				
+31	1	BAS-UELE					3	BAMBESA	17	Mondongwale (chefferie)				
+32	1	BAS-UELE					3	BAMBESA	7	Bambesa (commune)				
+33	1	BAS-UELE					3	BAMBESA	0		0		0	
+34	1	BAS-UELE					4	BONDO	18	Boso (chefferie)				
+35	1	BAS-UELE					4	BONDO	19	Deni (chefferie)				
+36	1	BAS-UELE					4	BONDO	20	Duaru (chefferie)				
+37	1	BAS-UELE					4	BONDO	21	Gama (chefferie)				
+38	1	BAS-UELE					4	BONDO	22	Gaya (chefferie)				
+39	1	BAS-UELE					4	BONDO	23	Gbiamange (chefferie)				
+40	1	BAS-UELE					4	BONDO	24	Goa (chefferie)				
+41	1	BAS-UELE					4	BONDO	25	Kasa (chefferie)				
+42	1	BAS-UELE					4	BONDO	26	Mobenge – Mondila (chefferie)				
+43	1	BAS-UELE					4	BONDO	27	Soa (chefferie)				
+44	1	BAS-UELE					4	BONDO	8	Bondo (commune)				
+45	1	BAS-UELE					4	BONDO	9	Dingila (commune)				
+46	1	BAS-UELE					4	BONDO	0		0		0	
+47	1	BAS-UELE					5	BUTA	29	Bayeu-Bogbama (chefferie)				
+48	1	BAS-UELE					5	BUTA	28	Bayeu-Bogongea (chefferie)				
+49	1	BAS-UELE					5	BUTA	30	Mobati (chefferie)				
+50	1	BAS-UELE					5	BUTA	31	Monganzulu (chefferie)				
+51	1	BAS-UELE					5	BUTA	32	Nguru (chefferie)				
+52	1	BAS-UELE					5	BUTA	5	Barissi –Mongingita-Bakongo (secteur)				
+53	1	BAS-UELE					5	BUTA	10	Likati (commune)				
+54	1	BAS-UELE					5	BUTA	0		0		0	
+55	1	BAS-UELE					6	POKO	33	Babena (chefferie)				
+56	1	BAS-UELE					6	POKO	34	Bakengaie (chefferie)				
+57	1	BAS-UELE					6	POKO	35	Gamu (chefferie)				
+58	1	BAS-UELE					6	POKO	36	Kipate (chefferie)				
+59	1	BAS-UELE					6	POKO	37	Kumendeni (chefferie)				
+60	1	BAS-UELE					6	POKO	38	Mabanga (chefferie)				
+61	1	BAS-UELE					6	POKO	39	Madi (chefferie)				
+62	1	BAS-UELE					6	POKO	40	Malele (chefferie)				
+63	1	BAS-UELE					6	POKO	41	Ngbaradi (chefferie)				
+64	1	BAS-UELE					6	POKO	42	Soronga (chefferie)				
+65	1	BAS-UELE					6	POKO	43	Zune (chefferie)				
+66	1	BAS-UELE					6	POKO	6	Abarambo (secteur)				
+67	1	BAS-UELE					6	POKO	7	Kembisa (secteur)				
+68	1	BAS-UELE					6	POKO	11	Poko (commune)				
+69	1	BAS-UELE					6	POKO	0		0		0	
+1395	1	BAS-UELE	0		0		0		0		0		0	
+70	2	EQUATEUR	2	MBANDAKA	12	Mbandaka								
+71	2	EQUATEUR	2	MBANDAKA	0									
+72	2	EQUATEUR	2	MBANDAKA	13	Wangata								
+73	2	EQUATEUR					7	BASANKUSU	8	Basankusu (secteur)				
+74	2	EQUATEUR					7	BASANKUSU	9	Gombalo (secteur)				
+75	2	EQUATEUR					7	BASANKUSU	10	Waka-Bokeka (secteur)				
+76	2	EQUATEUR					7	BASANKUSU	14	Basankusu (commune)				
+77	2	EQUATEUR					7	BASANKUSU	0		0		0	
+78	2	EQUATEUR					8	BIKORO	11	Ekonda (secteur)				
+79	2	EQUATEUR					8	BIKORO	12	Elanga (secteur)				
+80	2	EQUATEUR					8	BIKORO	13	Lac Ntomba (secteur)				
+81	2	EQUATEUR					8	BIKORO	15	Bikoro (commune)				
+82	2	EQUATEUR					8	BIKORO	0		0		0	
+83	2	EQUATEUR					9	BOLOMBA	44	Dianga (chefferie)				
+84	2	EQUATEUR					9	BOLOMBA	14	Bolomba (secteur)				
+85	2	EQUATEUR					9	BOLOMBA	15	Busira (secteur)				
+86	2	EQUATEUR					9	BOLOMBA	16	Losangania (secteur)				
+87	2	EQUATEUR					9	BOLOMBA	17	Mampoko (secteur)				
+88	2	EQUATEUR					9	BOLOMBA	16	Bolomba (commune)				
+89	2	EQUATEUR					9	BOLOMBA	0		0		0	
+90	2	EQUATEUR					10	BOMONGO	18	Dzamba (secteur)				
+91	2	EQUATEUR					10	BOMONGO	19	Ngiri (secteur)				
+92	2	EQUATEUR					10	BOMONGO	17	Bomongo (commune)				
+93	2	EQUATEUR					10	BOMONGO	0		0		0	
+94	2	EQUATEUR					11	INGENDE	20	Bokatola (secteur)				
+95	2	EQUATEUR					11	INGENDE	21	Duali (secteur)				
+96	2	EQUATEUR					11	INGENDE	22	Eungu (secteur)				
+97	2	EQUATEUR					11	INGENDE	18	Ingende (commune)				
+98	2	EQUATEUR					11	INGENDE	0		0		0	
+99	2	EQUATEUR					12	LUKOLELA	23	Banunu Bobangi (secteur)				
+100	2	EQUATEUR					12	LUKOLELA	24	Lusakani (secteur)				
+101	2	EQUATEUR					12	LUKOLELA	25	Mpama (secteur)				
+102	2	EQUATEUR					12	LUKOLELA	19	Lukolela (commune)				
+103	2	EQUATEUR					12	LUKOLELA	0		0		0	
+104	2	EQUATEUR					13	MAKANZA	26	Bangala (secteur)				
+105	2	EQUATEUR					13	MAKANZA	27	Mweko (secteur)				
+106	2	EQUATEUR					13	MAKANZA	28	Ndobo (secteur)				
+107	2	EQUATEUR					13	MAKANZA	20	Makanza (commune)				
+108	2	EQUATEUR					13	MAKANZA	0		0		0	
+1396	2	EQUATEUR	0		0		0		0		0		0	
+109	3	HAUT-LOMAMI	3	KAMINA	21	Dimayi								
+110	3	HAUT-LOMAMI	3	KAMINA	0									
+111	3	HAUT-LOMAMI	3	KAMINA	22	Kamina								
+112	3	HAUT-LOMAMI	3	KAMINA	23	Sobongo								
+113	3	HAUT-LOMAMI					14	BUKAMA	45	Butumba (chefferie)				
+114	3	HAUT-LOMAMI					14	BUKAMA	46	Kabondo Dianda (chefferie)				
+115	3	HAUT-LOMAMI					14	BUKAMA	47	Kapamayi (chefferie)				
+116	3	HAUT-LOMAMI					14	BUKAMA	48	Kibanda (chefferie)				
+117	3	HAUT-LOMAMI					14	BUKAMA	49	Kinkondja (chefferie)				
+118	3	HAUT-LOMAMI					14	BUKAMA	50	Umpungu (chefferie)				
+119	3	HAUT-LOMAMI					14	BUKAMA	29	Lualaba (secteur)				
+120	3	HAUT-LOMAMI					14	BUKAMA	24	Bukama (commune)				
+121	3	HAUT-LOMAMI					14	BUKAMA	25	Luena (commune)				
+122	3	HAUT-LOMAMI					14	BUKAMA	0		0		0	
+123	3	HAUT-LOMAMI					15	KABONGO	51	Kabongo (chefferie)				
+124	3	HAUT-LOMAMI					15	KABONGO	52	Kayamba (chefferie)				
+125	3	HAUT-LOMAMI					15	KABONGO	30	Nord-Baluba (secteur)				
+126	3	HAUT-LOMAMI					15	KABONGO	26	Kabongo (commune)				
+127	3	HAUT-LOMAMI					15	KABONGO	0		0		0	
+128	3	HAUT-LOMAMI					16	KAMINA	53	Kasongo Nyembo (chefferie)				
+129	3	HAUT-LOMAMI					16	KAMINA	31	Kinda (secteur)				
+130	3	HAUT-LOMAMI					16	KAMINA	0		0		0	
+131	3	HAUT-LOMAMI					17	KANIAMA	54	Mutombo-Mukulu (chefferie)				
+132	3	HAUT-LOMAMI					17	KANIAMA	27	Kaniama (commune)				
+133	3	HAUT-LOMAMI					17	KANIAMA	0		0		0	
+134	3	HAUT-LOMAMI					18	MALEMBA-NKULU	55	Kayumba (chefferie)				
+135	3	HAUT-LOMAMI					18	MALEMBA-NKULU	56	Mulongo (chefferie)				
+136	3	HAUT-LOMAMI					18	MALEMBA-NKULU	57	Museka (chefferie)				
+137	3	HAUT-LOMAMI					18	MALEMBA-NKULU	58	Nkulu (chefferie)				
+138	3	HAUT-LOMAMI					18	MALEMBA-NKULU	32	Badia (secteur)				
+139	3	HAUT-LOMAMI					18	MALEMBA-NKULU	33	Mwanza (secteur)				
+140	3	HAUT-LOMAMI					18	MALEMBA-NKULU	28	Malemba-Nkulu (commune)				
+141	3	HAUT-LOMAMI					18	MALEMBA-NKULU	0		0		0	
+1397	3	HAUT-LOMAMI	0		0		0		0		0		0	
+142	4	HAUT-KATANGA	4	LIKASI	30	Likasi								
+143	4	HAUT-KATANGA	4	LIKASI	0									
+144	4	HAUT-KATANGA	4	LIKASI	29	Kikula								
+145	4	HAUT-KATANGA	4	LIKASI	31	Shituru								
+146	4	HAUT-KATANGA	4	LIKASI	32	Panda								
+147	4	HAUT-KATANGA	5	LUBUMBASHI	33	Kamalondo								
+148	4	HAUT-KATANGA	5	LUBUMBASHI	0									
+149	4	HAUT-KATANGA	5	LUBUMBASHI	34	Kampemba								
+150	4	HAUT-KATANGA	5	LUBUMBASHI	35	Katuba								
+151	4	HAUT-KATANGA	5	LUBUMBASHI	36	Kenya								
+152	4	HAUT-KATANGA	5	LUBUMBASHI	37	Lubumbashi								
+153	4	HAUT-KATANGA	5	LUBUMBASHI	38	Ruashi								
+154	4	HAUT-KATANGA					19	KAMBOVE	59	Basanga-Mpembe (chefferie)				
+155	4	HAUT-KATANGA					19	KAMBOVE	34	Lufira (secteur)				
+156	4	HAUT-KATANGA					19	KAMBOVE	35	Sources du Fleuve Congo (secteur)				
+157	4	HAUT-KATANGA					19	KAMBOVE	35	Sources du Fleuve Congo (secteur)				
+158	4	HAUT-KATANGA					19	KAMBOVE	39	Kambove (commune)				
+159	4	HAUT-KATANGA					19	KAMBOVE	0		0		0	
+160	4	HAUT-KATANGA					20	MITUABA	60	Kiona-Ngoie (chefferie)				
+161	4	HAUT-KATANGA					20	MITUABA	36	Balomotwa (secteur)				
+162	4	HAUT-KATANGA					20	MITUABA	37	Banweshi (secteur)				
+163	4	HAUT-KATANGA					20	MITUABA	37	Banweshi (secteur)				
+164	4	HAUT-KATANGA					20	MITUABA	40	Mituaba (commune)				
+165	4	HAUT-KATANGA					20	MITUABA	0		0		0	
+166	4	HAUT-KATANGA					21	KASENGA	38	Bakunda (secteur)				
+167	4	HAUT-KATANGA					21	KASENGA	39	Kafira (secteur)				
+168	4	HAUT-KATANGA					21	KASENGA	40	Kisamamba (secteur)				
+169	4	HAUT-KATANGA					21	KASENGA	41	Luapula (secteur)				
+170	4	HAUT-KATANGA					21	KASENGA	41	Kasenga (commune)				
+171	4	HAUT-KATANGA					21	KASENGA	0		0		0	
+172	4	HAUT-KATANGA					22	PUETO	61	Kiona-Nzini (chefferie)				
+173	4	HAUT-KATANGA					22	PUETO	62	Mpweto (chefferie)				
+174	4	HAUT-KATANGA					22	PUETO	63	Mwenge (chefferie)				
+175	4	HAUT-KATANGA					22	PUETO	42	Moero (secteur)				
+176	4	HAUT-KATANGA					22	PUETO	42	Pueto (commune)				
+177	4	HAUT-KATANGA					22	PUETO	0		0		0	
+178	4	HAUT-KATANGA					23	SAKANIA	43	Balala (secteur)				
+179	4	HAUT-KATANGA					23	SAKANIA	44	Balamba (secteur)				
+180	4	HAUT-KATANGA					23	SAKANIA	45	Baushi (secteur)				
+181	4	HAUT-KATANGA					23	SAKANIA	43	Sakania (commune)				
+182	4	HAUT-KATANGA					23	SAKANIA	44	Mokambo (commune)				
+183	4	HAUT-KATANGA					23	SAKANIA	45	Musohi-Kasumbalesa (commune)				
+184	4	HAUT-KATANGA					23	SAKANIA	0		0		0	
+185	4	HAUT-KATANGA					24	KIPUSHI	64	Kaponda (chefferie)				
+186	4	HAUT-KATANGA					24	KIPUSHI	65	Kinama (chefferie)				
+187	4	HAUT-KATANGA					24	KIPUSHI	46	Bukanda (secteur)				
+188	4	HAUT-KATANGA					24	KIPUSHI	46	Kipushi (commune)				
+189	4	HAUT-KATANGA					24	KIPUSHI	0		0		0	
+1398	4	HAUT-KATANGA	0		0		0		0		0		0	
+190	5	HAUT-UELE	6	ISIRO	47	Kupa								
+191	5	HAUT-UELE	6	ISIRO	0									
+192	5	HAUT-UELE	6	ISIRO	48	Mambaya								
+193	5	HAUT-UELE	6	ISIRO	49	Mendambo								
+194	5	HAUT-UELE					25	DUNGU	66	Malingindu (chefferie)				
+195	5	HAUT-UELE					25	DUNGU	67	Ndolomo (chefferie)				
+196	5	HAUT-UELE					25	DUNGU	68	Wando (chefferie)				
+197	5	HAUT-UELE					25	DUNGU	50	Aba (commune)				
+198	5	HAUT-UELE					25	DUNGU	51	Dungu (commune)				
+199	5	HAUT-UELE					25	DUNGU	0		0		0	
+200	5	HAUT-UELE					26	FARADJE	69	Dongo (chefferie)				
+201	5	HAUT-UELE					26	FARADJE	70	Kakwa-Lamada (chefferie)				
+202	5	HAUT-UELE					26	FARADJE	71	Logo-Bagela (chefferie)				
+203	5	HAUT-UELE					26	FARADJE	72	Logo-Doka (chefferie)				
+204	5	HAUT-UELE					26	FARADJE	73	Logo-Lolia (chefferie)				
+205	5	HAUT-UELE					26	FARADJE	74	Logo-Obeleba (chefferie)				
+206	5	HAUT-UELE					26	FARADJE	75	Logo-Ogambi (chefferie)				
+207	5	HAUT-UELE					26	FARADJE	76	Mondo (chefferie)				
+208	5	HAUT-UELE					26	FARADJE	52	Faradje (commune)				
+209	5	HAUT-UELE					26	FARADJE	0		0		0	
+210	5	HAUT-UELE					27	NIANGARA	77	Boime (chefferie)				
+211	5	HAUT-UELE					27	NIANGARA	78	Kereboro (chefferie)				
+212	5	HAUT-UELE					27	NIANGARA	79	Kopa (chefferie)				
+213	5	HAUT-UELE					27	NIANGARA	80	Mangbere (chefferie)				
+214	5	HAUT-UELE					27	NIANGARA	81	Mangbetu (chefferie)				
+215	5	HAUT-UELE					27	NIANGARA	82	Manziga (chefferie)				
+216	5	HAUT-UELE					27	NIANGARA	83	Okondo (chefferie)				
+217	5	HAUT-UELE					27	NIANGARA	53	Niangara (commune)				
+218	5	HAUT-UELE					27	NIANGARA	0		0		0	
+219	5	HAUT-UELE					28	RUNGU	84	Azanga (chefferie)				
+220	5	HAUT-UELE					28	RUNGU	85	Mayogo-Mabozo (chefferie)				
+221	5	HAUT-UELE					28	RUNGU	86	Mayogo-Magbay (chefferie)				
+222	5	HAUT-UELE					28	RUNGU	87	Mboli (chefferie)				
+223	5	HAUT-UELE					28	RUNGU	88	Medje-Mango (chefferie)				
+224	5	HAUT-UELE					28	RUNGU	89	Mongo-Masi (chefferie)				
+225	5	HAUT-UELE					28	RUNGU	90	Ndey (chefferie)				
+226	5	HAUT-UELE					28	RUNGU	54	Rungu (commune)				
+227	5	HAUT-UELE					28	RUNGU	0		0		0	
+228	5	HAUT-UELE					29	WAMBA	91	Bafwagada (chefferie)				
+229	5	HAUT-UELE					29	WAMBA	92	Bafwakoy (chefferie)				
+230	5	HAUT-UELE					29	WAMBA	93	Balika-Toriko (chefferie)				
+231	5	HAUT-UELE					29	WAMBA	94	Mahaa (chefferie)				
+232	5	HAUT-UELE					29	WAMBA	95	Makoda (chefferie)				
+233	5	HAUT-UELE					29	WAMBA	96	Malamba (chefferie)				
+234	5	HAUT-UELE					29	WAMBA	97	Malika Ateru (chefferie)				
+235	5	HAUT-UELE					29	WAMBA	98	Mangbele (chefferie)				
+236	5	HAUT-UELE					29	WAMBA	99	Timoniko (chefferie)				
+237	5	HAUT-UELE					29	WAMBA	100	Wadimbisa (chefferie)				
+238	5	HAUT-UELE					29	WAMBA	47	Mabudu Malika Babyeru( (MMB) (secteur)				
+239	5	HAUT-UELE					29	WAMBA	55	Wamba (commune)				
+240	5	HAUT-UELE					29	WAMBA	0		0		0	
+241	5	HAUT-UELE					30	WATSA	101	Andikofa (chefferie)				
+242	5	HAUT-UELE					30	WATSA	102	Andobi (chefferie)				
+243	5	HAUT-UELE					30	WATSA	103	Ateru (chefferie)				
+244	5	HAUT-UELE					30	WATSA	104	Kebo (chefferie)				
+245	5	HAUT-UELE					30	WATSA	105	Mari-Minza (chefferie)				
+246	5	HAUT-UELE					30	WATSA	106	Walese (chefferie)				
+247	5	HAUT-UELE					30	WATSA	48	Gombari (secteur)				
+248	5	HAUT-UELE					30	WATSA	49	Kibali (secteur)				
+249	5	HAUT-UELE					30	WATSA	50	Mangbutu (secteur)				
+250	5	HAUT-UELE					30	WATSA	56	Watsa (commune)				
+251	5	HAUT-UELE					30	WATSA	0		0		0	
+1399	5	HAUT-UELE	0		0		0		0		0		0	
+252	6	ITURI	7	BUNIA	57	Mbunya								
+253	6	ITURI	7	BUNIA	0									
+254	6	ITURI	7	BUNIA	58	Nyakasanza								
+255	6	ITURI	7	BUNIA	59	Shari								
+256	6	ITURI					31	DJUGU	107	Bahema-Baguru (chefferie)				
+257	6	ITURI					31	DJUGU	108	Bahema-Badjere (chefferie)				
+258	6	ITURI					31	DJUGU	109	Bahema-Banywagi (chefferie)				
+259	6	ITURI					31	DJUGU	110	Bahema-Nord (chefferie)				
+260	6	ITURI					31	DJUGU	111	Mabendi (chefferie)				
+261	6	ITURI					31	DJUGU	112	Mambisa (chefferie)				
+262	6	ITURI					31	DJUGU	113	Ndo-Okebo (chefferie)				
+263	6	ITURI					31	DJUGU	51	Banyali - Kilo (secteur)				
+264	6	ITURI					31	DJUGU	52	Walendu-Djatsi (secteur)				
+265	6	ITURI					31	DJUGU	53	Walendu-Pitsi (secteur)				
+266	6	ITURI					31	DJUGU	54	Walendu-Tatsi (secteur)				
+267	6	ITURI					31	DJUGU	60	Djugu (commune)				
+268	6	ITURI					31	DJUGU	0		0		0	
+269	6	ITURI					32	IRUMU	114	Andisoma (chefferie)				
+270	6	ITURI					32	IRUMU	115	Babelebe (chefferie)				
+271	6	ITURI					32	IRUMU	116	Baboa-Bokoe (chefferie)				
+272	6	ITURI					32	IRUMU	117	Bahema d’Irumu (chefferie)				
+273	6	ITURI					32	IRUMU	118	Bahema-Mitego (chefferie)				
+274	6	ITURI					32	IRUMU	119	Bahema Boga (chefferie)				
+275	6	ITURI					32	IRUMU	120	Banyari-Tchabi (chefferie)				
+276	6	ITURI					32	IRUMU	121	Basili (chefferie)				
+277	6	ITURI					32	IRUMU	122	Mobala (chefferie)				
+278	6	ITURI					32	IRUMU	123	Walendu Bindi (chefferie)				
+279	6	ITURI					32	IRUMU	124	Walese Vonkutu (chefferie)				
+280	6	ITURI					32	IRUMU	55	Bahema Sud (secteur)				
+281	6	ITURI					32	IRUMU	0		0		0	
+282	6	ITURI					33	MAHAGI	125	Alur-Djuganda (chefferie)				
+283	6	ITURI					33	MAHAGI	126	Anghal (chefferie)				
+284	6	ITURI					33	MAHAGI	127	Djukoth (chefferie)				
+285	6	ITURI					33	MAHAGI	128	Mokambu (chefferie)				
+286	6	ITURI					33	MAHAGI	129	Panduru (chefferie)				
+287	6	ITURI					33	MAHAGI	130	Wagongo (chefferie)				
+288	6	ITURI					33	MAHAGI	131	Walendu-Watsi (chefferie)				
+289	6	ITURI					33	MAHAGI	132	War-Palara (chefferie)				
+290	6	ITURI					33	MAHAGI	62	Mahagi (commune)				
+291	6	ITURI					33	MAHAGI	0		0		0	
+292	6	ITURI					34	MAMBASA	133	Babila-Babombi (chefferie)				
+293	6	ITURI					34	MAMBASA	134	Babila-Bakwanza (chefferie)				
+294	6	ITURI					34	MAMBASA	135	Bandaka (chefferie)				
+295	6	ITURI					34	MAMBASA	136	Bombo-Bagumba (chefferie)				
+296	6	ITURI					34	MAMBASA	137	Mambasa (chefferie)				
+297	6	ITURI					34	MAMBASA	138	Walese-Dese (chefferie)				
+298	6	ITURI					34	MAMBASA	139	Walese-Karo (chefferie)				
+299	6	ITURI					34	MAMBASA	63	Mambasa (commune)				
+300	6	ITURI					34	MAMBASA	0		0		0	
+301	6	ITURI					35	ARU	140	Aluru (chefferie)				
+302	6	ITURI					35	ARU	141	Kakwa (chefferie)				
+303	6	ITURI					35	ARU	142	Kaliko-Omi (chefferie)				
+304	6	ITURI					35	ARU	143	Lu (chefferie)				
+305	6	ITURI					35	ARU	144	Nio-Kamule (chefferie)				
+306	6	ITURI					35	ARU	145	Otso (chefferie)				
+307	6	ITURI					35	ARU	146	Zaki (chefferie)				
+308	6	ITURI					35	ARU	56	Ndo (secteur)				
+309	6	ITURI					35	ARU	64	Aru (commune)				
+310	6	ITURI					35	ARU	0		0		0	
+1400	6	ITURI	0		0		0		0		0		0	
+311	7	KASAI	8	TSHIKAPA	65	Dibumba I								
+312	7	KASAI	8	TSHIKAPA	0									
+313	7	KASAI	8	TSHIKAPA	66	Dibumba II								
+314	7	KASAI	8	TSHIKAPA	67	Kanzala								
+315	7	KASAI	8	TSHIKAPA	68	Mabondo								
+316	7	KASAI	8	TSHIKAPA	69	Mbumba								
+317	7	KASAI					36	KAMONYA	57	Bakwa-Nyambi (secteur)				
+318	7	KASAI					36	KAMONYA	58	Bapende (secteur)				
+319	7	KASAI					36	KAMONYA	59	Kasadisadi (secteur)				
+320	7	KASAI					36	KAMONYA	60	Kasai-Kabambaie (secteur)				
+321	7	KASAI					36	KAMONYA	61	Kasai Longatshimi (secteur)				
+322	7	KASAI					36	KAMONYA	62	Kasai Lunyeka (secteur)				
+323	7	KASAI					36	KAMONYA	63	lovua-longatshimo (secteur)				
+324	7	KASAI					36	KAMONYA	64	Lovua-Lushiku (secteur)				
+325	7	KASAI					36	KAMONYA	65	Tshikapa (secteur)				
+326	7	KASAI					36	KAMONYA	70	Kamonya (commune)				
+327	7	KASAI					36	KAMONYA	0		0		0	
+328	7	KASAI					37	LUEBO	67	Luebo-Lulengele (secteur)				
+329	7	KASAI					37	LUEBO	68	Luebo-Wedi (secteur)				
+330	7	KASAI					37	LUEBO	66	Luebo Kabambaie (secteur)				
+331	7	KASAI					37	LUEBO	69	Ndjoko-Punda (secteur)				
+332	7	KASAI					37	LUEBO	71	Luebo (commune)				
+333	7	KASAI					37	LUEBO	0		0		0	
+334	7	KASAI					38	DEKESE	147	Dekese-Ikolombe-Isolu (chefferie)				
+335	7	KASAI					38	DEKESE	148	Yaelima (chefferie)				
+336	7	KASAI					38	DEKESE	72	Dekese (commune)				
+337	7	KASAI					38	DEKESE	0		0		0	
+338	7	KASAI					39	MWEKA	149	Bakuba (chefferie)				
+339	7	KASAI					39	MWEKA	73	Mweka (commune)				
+340	7	KASAI					39	MWEKA	74	Ka (commune)				
+341	7	KASAI					39	MWEKA	0		0		0	
+342	7	KASAI					40	ILEBO	70	Basongo E.L.K (secteur)				
+343	7	KASAI					40	ILEBO	71	Malumalu (secteur)				
+344	7	KASAI					40	ILEBO	72	Mapangu (secteur)				
+345	7	KASAI					40	ILEBO	73	Sud-Banga (secteur)				
+346	7	KASAI					40	ILEBO	75	Ilebo (commune)				
+347	7	KASAI					40	ILEBO	0		0		0	
+1401	7	KASAI	0		0		0		0		0		0	
+348	8	KASAI CENTRAL	9	KANANGA	76	Kananga								
+349	8	KASAI CENTRAL	9	KANANGA	0									
+350	8	KASAI CENTRAL	9	KANANGA	77	Katoka								
+351	8	KASAI CENTRAL	9	KANANGA	78	Lukonga								
+352	8	KASAI CENTRAL	9	KANANGA	79	Ndesha								
+353	8	KASAI CENTRAL	9	KANANGA	80	Nganza								
+354	8	KASAI CENTRAL					41	DEMBA	74	Bena-Mamba (secteur)				
+355	8	KASAI CENTRAL					41	DEMBA	75	Diofwa (secteur)				
+356	8	KASAI CENTRAL					41	DEMBA	76	Lombelo (secteur)				
+357	8	KASAI CENTRAL					41	DEMBA	77	Lusonge (secteur)				
+358	8	KASAI CENTRAL					41	DEMBA	78	Muanza-Ngoma (secteur)				
+359	8	KASAI CENTRAL					41	DEMBA	79	Tshibote (secteur)				
+360	8	KASAI CENTRAL					41	DEMBA	80	Tshibungu (secteur)				
+361	8	KASAI CENTRAL					41	DEMBA	81	Bena- Leka (commune)				
+362	8	KASAI CENTRAL					41	DEMBA	82	Demba (commune)				
+363	8	KASAI CENTRAL					41	DEMBA	0		0		0	
+364	8	KASAI CENTRAL					42	DIBAYA	81	Dibanda (secteur)				
+365	8	KASAI CENTRAL					42	DIBAYA	82	Dibataie (secteur)				
+366	8	KASAI CENTRAL					42	DIBAYA	83	Kamwandu (secteur)				
+367	8	KASAI CENTRAL					42	DIBAYA	84	Kasangidi (secteur)				
+368	8	KASAI CENTRAL					42	DIBAYA	85	Tshishilu (secteur)				
+369	8	KASAI CENTRAL					42	DIBAYA	83	Dibaya (commune)				
+370	8	KASAI CENTRAL					42	DIBAYA	84	Tshimbulu (commune)				
+371	8	KASAI CENTRAL					42	DIBAYA	0		0		0	
+372	8	KASAI CENTRAL					43	DIMBELENGE	86	Kunduyie (secteur)				
+373	8	KASAI CENTRAL					43	DIMBELENGE	87	Lubi (secteur)				
+374	8	KASAI CENTRAL					43	DIMBELENGE	88	Lubudi (secteur)				
+375	8	KASAI CENTRAL					43	DIMBELENGE	89	Lukibu (secteur)				
+376	8	KASAI CENTRAL					43	DIMBELENGE	90	Mashala (secteur)				
+377	8	KASAI CENTRAL					43	DIMBELENGE	85	Dimbelenge (commune)				
+378	8	KASAI CENTRAL					43	DIMBELENGE	0		0		0	
+379	8	KASAI CENTRAL					44	KAZUMBA	91	Bulungu (secteur)				
+380	8	KASAI CENTRAL					44	KAZUMBA	92	Kafuba (secteur)				
+381	8	KASAI CENTRAL					44	KAZUMBA	93	Kavula (secteur)				
+382	8	KASAI CENTRAL					44	KAZUMBA	94	Matamba (secteur)				
+383	8	KASAI CENTRAL					44	KAZUMBA	95	Mboie (secteur)				
+384	8	KASAI CENTRAL					44	KAZUMBA	96	Miao (secteur)				
+385	8	KASAI CENTRAL					44	KAZUMBA	97	Muswaswa (secteur)				
+386	8	KASAI CENTRAL					44	KAZUMBA	98	Mutefu (secteur)				
+387	8	KASAI CENTRAL					44	KAZUMBA	99	Tshitadi (secteur)				
+388	8	KASAI CENTRAL					44	KAZUMBA	86	Kazumba (commune)				
+389	8	KASAI CENTRAL					44	KAZUMBA	0		0		0	
+390	8	KASAI CENTRAL					45	LUIZA	100	Bambaie (secteur)				
+391	8	KASAI CENTRAL					45	LUIZA	101	Bushimayi (secteur)				
+392	8	KASAI CENTRAL					45	LUIZA	102	Kabelekese (secteur)				
+393	8	KASAI CENTRAL					45	LUIZA	103	Kalunga (secteur)				
+394	8	KASAI CENTRAL					45	LUIZA	104	Luatshi (secteur)				
+395	8	KASAI CENTRAL					45	LUIZA	105	Lueta (secteur)				
+396	8	KASAI CENTRAL					45	LUIZA	106	Lusanza (secteur)				
+397	8	KASAI CENTRAL					45	LUIZA	87	Luiza (commune)				
+398	8	KASAI CENTRAL					45	LUIZA	0		0		0	
+1402	8	KASAI CENTRAL	0		0		0		0		0		0	
+399	9	KASAI ORIENTAL	10	MBUJI MAYI	88	Bipemba								
+400	9	KASAI ORIENTAL	10	MBUJI MAYI	0									
+401	9	KASAI ORIENTAL	10	MBUJI MAYI	89	Dibindi								
+402	9	KASAI ORIENTAL	10	MBUJI MAYI	90	Diulu								
+403	9	KASAI ORIENTAL	10	MBUJI MAYI	91	Kanshi								
+404	9	KASAI ORIENTAL	10	MBUJI MAYI	92	Muya								
+405	9	KASAI ORIENTAL					46	KABEYA KAMWANGA	107	Kalela (secteur)				
+406	9	KASAI ORIENTAL					46	KABEYA KAMWANGA	108	Lac Munkamba (secteur)				
+407	9	KASAI ORIENTAL					46	KABEYA KAMWANGA	109	Mpemba (secteur)				
+408	9	KASAI ORIENTAL					46	KABEYA KAMWANGA	110	Ndomba (secteur)				
+409	9	KASAI ORIENTAL					46	KABEYA KAMWANGA	94	Kabeya Kamwanga (commune)				
+410	9	KASAI ORIENTAL					46	KABEYA KAMWANGA	0		0		0	
+411	9	KASAI ORIENTAL					47	KATANDA	111	Baluba-Lubilanji (secteur)				
+412	9	KASAI ORIENTAL					47	KATANDA	112	Bena -Tshitolo (secteur)				
+413	9	KASAI ORIENTAL					47	KATANDA	113	Mutuayi (secteur)				
+414	9	KASAI ORIENTAL					47	KATANDA	114	Nsangu (secteur)				
+415	9	KASAI ORIENTAL					47	KATANDA	95	Katanda (commune)				
+416	9	KASAI ORIENTAL					47	KATANDA	0		0		0	
+417	9	KASAI ORIENTAL					48	LUPATAPATA	115	Kabala (secteur)				
+418	9	KASAI ORIENTAL					48	LUPATAPATA	116	Mudiba (secteur)				
+419	9	KASAI ORIENTAL					48	LUPATAPATA	117	Mukumbi (secteur)				
+420	9	KASAI ORIENTAL					48	LUPATAPATA	118	Mulenda (secteur)				
+421	9	KASAI ORIENTAL					48	LUPATAPATA	96	Lupatapata (commune)				
+422	9	KASAI ORIENTAL					48	LUPATAPATA	0		0		0	
+423	9	KASAI ORIENTAL					49	MIABI	119	Kakangayi (secteur)				
+424	9	KASAI ORIENTAL					49	MIABI	120	Movo-Nkatshia (secteur)				
+425	9	KASAI ORIENTAL					49	MIABI	121	Tshijiba (secteur)				
+426	9	KASAI ORIENTAL					49	MIABI	122	Tshilundu (secteur)				
+427	9	KASAI ORIENTAL					49	MIABI	97	Miabi (commune)				
+428	9	KASAI ORIENTAL					49	MIABI	0		0		0	
+429	9	KASAI ORIENTAL					50	TSHILENGE	150	Bakwa-Kalondji (chefferie)				
+430	9	KASAI ORIENTAL					50	TSHILENGE	99	Lukalaba (commune)				
+431	9	KASAI ORIENTAL					50	TSHILENGE	98	Tshilenge (commune)				
+432	9	KASAI ORIENTAL					50	TSHILENGE	0		0		0	
+1403	9	KASAI ORIENTAL	0		0		0		0		0		0	
+433	10	KONGO CENTRAL	11	BOMA	100	Kambondo								
+434	10	KONGO CENTRAL	11	BOMA	0									
+435	10	KONGO CENTRAL	11	BOMA	101	Kalamu								
+436	10	KONGO CENTRAL	11	BOMA	102	Nzadi								
+437	10	KONGO CENTRAL	12	MATADI	103	Matadi								
+438	10	KONGO CENTRAL	12	MATADI	0									
+439	10	KONGO CENTRAL	12	MATADI	104	Mvuzi								
+440	10	KONGO CENTRAL	12	MATADI	105	Nzanza								
+441	10	KONGO CENTRAL					51	MOANDA	123	Boma-Bungu (secteur)				
+442	10	KONGO CENTRAL					51	MOANDA	124	De la Mer (secteur)				
+443	10	KONGO CENTRAL					51	MOANDA	125	Assolongo (secteur)				
+444	10	KONGO CENTRAL					51	MOANDA	106	Moanda (commune)				
+445	10	KONGO CENTRAL					51	MOANDA	0		0		0	
+446	10	KONGO CENTRAL					52	LUKULA	126	Fubu (secteur)				
+447	10	KONGO CENTRAL					52	LUKULA	127	Kakongo (secteur)				
+448	10	KONGO CENTRAL					52	LUKULA	128	Patu (secteur)				
+449	10	KONGO CENTRAL					52	LUKULA	129	Tsanga -Sud (secteur)				
+450	10	KONGO CENTRAL					52	LUKULA	130	Tsundi –Sud (secteur)				
+451	10	KONGO CENTRAL					52	LUKULA	107	Lemba (commune)				
+452	10	KONGO CENTRAL					52	LUKULA	108	lukula (commune)				
+453	10	KONGO CENTRAL					52	LUKULA	109	Nsioni (commune)				
+454	10	KONGO CENTRAL					52	LUKULA	0		0		0	
+455	10	KONGO CENTRAL					53	TSHELA	131	Bula-Naku (secteur)				
+456	10	KONGO CENTRAL					53	TSHELA	132	Lubuzi (secteur)				
+457	10	KONGO CENTRAL					53	TSHELA	133	Lubolo (secteur)				
+458	10	KONGO CENTRAL					53	TSHELA	134	Loango (secteur)				
+459	10	KONGO CENTRAL					53	TSHELA	135	Maduda (secteur)				
+460	10	KONGO CENTRAL					53	TSHELA	136	Nzobe-Luzi (secteur)				
+461	10	KONGO CENTRAL					53	TSHELA	137	Tshela- Mbanga (secteur)				
+462	10	KONGO CENTRAL					53	TSHELA	138	Nganda- Sundi (secteur)				
+463	10	KONGO CENTRAL					53	TSHELA	110	Tshela (commune)				
+464	10	KONGO CENTRAL					53	TSHELA	0		0		0	
+465	10	KONGO CENTRAL					54	SEKE-BANZA	139	Bundi (secteur)				
+466	10	KONGO CENTRAL					54	SEKE-BANZA	140	Isangila (secteur)				
+467	10	KONGO CENTRAL					54	SEKE-BANZA	141	Lufu (secteur)				
+468	10	KONGO CENTRAL					54	SEKE-BANZA	142	Mbavu (secteur)				
+469	10	KONGO CENTRAL					54	SEKE-BANZA	143	Sumbi (secteur)				
+470	10	KONGO CENTRAL					54	SEKE-BANZA	111	Kinzau-Mvuete (commune)				
+471	10	KONGO CENTRAL					54	SEKE-BANZA	112	Seke-Banza (commune)				
+472	10	KONGO CENTRAL					54	SEKE-BANZA	0		0		0	
+473	10	KONGO CENTRAL					55	SONGOLOLO	144	Bamboma (secteur)				
+474	10	KONGO CENTRAL					55	SONGOLOLO	145	Kimpese (secteur)				
+475	10	KONGO CENTRAL					55	SONGOLOLO	146	Luima (secteur)				
+476	10	KONGO CENTRAL					55	SONGOLOLO	147	Palabala (secteur)				
+477	10	KONGO CENTRAL					55	SONGOLOLO	148	Wombo (secteur)				
+478	10	KONGO CENTRAL					55	SONGOLOLO	113	Songololo (commune)				
+479	10	KONGO CENTRAL					55	SONGOLOLO	114	Kimpese (commune)				
+480	10	KONGO CENTRAL					55	SONGOLOLO	0		0		0	
+481	10	KONGO CENTRAL					56	MBANZANGUNGU	149	Boko (secteur)				
+482	10	KONGO CENTRAL					56	MBANZANGUNGU	150	Kivulu (secteur)				
+483	10	KONGO CENTRAL					56	MBANZANGUNGU	151	Kwilu-Ngongo (secteur)				
+484	10	KONGO CENTRAL					56	MBANZANGUNGU	152	Lunzadi (secteur)				
+485	10	KONGO CENTRAL					56	MBANZANGUNGU	153	Ngoma- Matadi (secteur)				
+486	10	KONGO CENTRAL					56	MBANZANGUNGU	154	Ngombe -Sud (secteur)				
+487	10	KONGO CENTRAL					56	MBANZANGUNGU	155	Ntimansi (secteur)				
+488	10	KONGO CENTRAL					56	MBANZANGUNGU	115	Kwilu-ngongo (commune)				
+489	10	KONGO CENTRAL					56	MBANZANGUNGU	116	Lukala (commune)				
+490	10	KONGO CENTRAL					56	MBANZANGUNGU	117	Mbanzangungu (commune)				
+491	10	KONGO CENTRAL					56	MBANZANGUNGU	0		0		0	
+492	10	KONGO CENTRAL					57	LUOZI	156	Balari (secteur)				
+493	10	KONGO CENTRAL					57	LUOZI	157	Kenge (secteur)				
+494	10	KONGO CENTRAL					57	LUOZI	158	Kimbanza (secteur)				
+495	10	KONGO CENTRAL					57	LUOZI	159	Kimumba (secteur)				
+496	10	KONGO CENTRAL					57	LUOZI	160	Kinkenge (secteur)				
+497	10	KONGO CENTRAL					57	LUOZI	161	Kivunda (secteur)				
+498	10	KONGO CENTRAL					57	LUOZI	162	Mbanza-Mona (secteur)				
+499	10	KONGO CENTRAL					57	LUOZI	163	Mbanza-Muembe (secteur)				
+500	10	KONGO CENTRAL					57	LUOZI	164	Mbanza-Ngoyo (secteur)				
+501	10	KONGO CENTRAL					57	LUOZI	165	Mongo-Luala (secteur)				
+502	10	KONGO CENTRAL					57	LUOZI	118	Luozi (commune)				
+503	10	KONGO CENTRAL					57	LUOZI	0		0		0	
+504	10	KONGO CENTRAL					58	KASANGULU	166	Kasangulu (secteur)				
+505	10	KONGO CENTRAL					58	KASANGULU	167	Luila (secteur)				
+506	10	KONGO CENTRAL					58	KASANGULU	168	Lukunga Mputu (secteur)				
+507	10	KONGO CENTRAL					58	KASANGULU	119	Kasangulu (commune)				
+508	10	KONGO CENTRAL					58	KASANGULU	0		0		0	
+509	10	KONGO CENTRAL					59	KIMVULA	169	Benga (secteur)				
+510	10	KONGO CENTRAL					59	KIMVULA	170	Lubus (secteur)				
+511	10	KONGO CENTRAL					59	KIMVULA	171	Lulalumene (secteur)				
+512	10	KONGO CENTRAL					59	KIMVULA	120	Kimvula (commune)				
+513	10	KONGO CENTRAL					59	KIMVULA	0		0		0	
+514	10	KONGO CENTRAL					60	MADIMBA	172	Kinkosi-Luidi (secteur)				
+515	10	KONGO CENTRAL					60	MADIMBA	173	Mfidi-Malele (secteur)				
+516	10	KONGO CENTRAL					60	MADIMBA	174	Mfuma-Kibambi (secteur)				
+517	10	KONGO CENTRAL					60	MADIMBA	175	Ngeba (secteur)				
+518	10	KONGO CENTRAL					60	MADIMBA	176	Ngufu (secteur)				
+519	10	KONGO CENTRAL					60	MADIMBA	177	Wungu (secteur)				
+520	10	KONGO CENTRAL					60	MADIMBA	121	Inkisi (commune)				
+521	10	KONGO CENTRAL					60	MADIMBA	122	Madimba (commune)				
+522	10	KONGO CENTRAL					60	MADIMBA	0		0		0	
+1404	10	KONGO CENTRAL	0		0		0		0		0		0	
+523	11	KWANGO	13	KENGE	123	Cinq Mai								
+524	11	KWANGO	13	KENGE	0									
+525	11	KWANGO	13	KENGE	124	L.D Kabila								
+526	11	KWANGO	13	KENGE	125	Manonga								
+527	11	KWANGO	13	KENGE	126	Masikita								
+528	11	KWANGO	13	KENGE	127	Mavula								
+529	11	KWANGO					61	KENGE	151	Pelende -Nord (chefferie)				
+530	11	KWANGO					61	KENGE	178	Bukanga - Lonzo (secteur)				
+531	11	KWANGO					61	KENGE	179	Dinga (secteur)				
+532	11	KWANGO					61	KENGE	196	Kolokoso (secteur)				
+533	11	KWANGO					61	KENGE	197	Mosamba (secteur)				
+534	11	KWANGO					61	KENGE	128	Kenge II (commune)				
+535	11	KWANGO					61	KENGE	0		0		0	
+536	11	KWANGO					62	POPOKABAKA	180	Lufuna (secteur)				
+537	11	KWANGO					62	POPOKABAKA	181	Popokabaka (secteur)				
+538	11	KWANGO					62	POPOKABAKA	182	Yonso (secteur)				
+539	11	KWANGO					62	POPOKABAKA	129	Popokabaka (commune)				
+540	11	KWANGO					62	POPOKABAKA	0		0		0	
+541	11	KWANGO					63	FESHI	183	Ganaketi (secteur)				
+542	11	KWANGO					63	FESHI	184	Lobo (secteur)				
+543	11	KWANGO					63	FESHI	185	Feshi-Maziamo (secteur)				
+544	11	KWANGO					63	FESHI	186	Mokoso (secteur)				
+545	11	KWANGO					63	FESHI	130	Feshi (commune)				
+546	11	KWANGO					63	FESHI	0		0		0	
+547	11	KWANGO					64	KASONGO-LUNDA	159	Kasa (chefferie)				
+548	11	KWANGO					64	KASONGO-LUNDA	153	Kasongo-Lunda (chefferie)				
+549	11	KWANGO					64	KASONGO-LUNDA	187	Kibunda (secteur)				
+550	11	KWANGO					64	KASONGO-LUNDA	188	Kingulu (secteur)				
+551	11	KWANGO					64	KASONGO-LUNDA	188	Kingulu (secteur)				
+552	11	KWANGO					64	KASONGO-LUNDA	188	Kingulu (secteur)				
+553	11	KWANGO					64	KASONGO-LUNDA	189	Kizamba (secteur)				
+554	11	KWANGO					64	KASONGO-LUNDA	189	Kizamba (secteur)				
+555	11	KWANGO					64	KASONGO-LUNDA	189	Kizamba (secteur)				
+556	11	KWANGO					64	KASONGO-LUNDA	190	Mawanga (secteur)				
+557	11	KWANGO					64	KASONGO-LUNDA	190	Mawanga (secteur)				
+558	11	KWANGO					64	KASONGO-LUNDA	190	Mawanga (secteur)				
+559	11	KWANGO					64	KASONGO-LUNDA	191	Panzi (secteur)				
+560	11	KWANGO					64	KASONGO-LUNDA	191	Panzi (secteur)				
+561	11	KWANGO					64	KASONGO-LUNDA	191	Panzi (secteur)				
+562	11	KWANGO					64	KASONGO-LUNDA	192	Swa-Tenda (secteur)				
+563	11	KWANGO					64	KASONGO-LUNDA	192	Swa-Tenda (secteur)				
+564	11	KWANGO					64	KASONGO-LUNDA	192	Swa-Tenda (secteur)				
+565	11	KWANGO					64	KASONGO-LUNDA	131	Kasongo-Lunda (commune)				
+566	11	KWANGO					64	KASONGO-LUNDA	132	Kingwangala (commune)				
+567	11	KWANGO					64	KASONGO-LUNDA	133	Tembo (commune)				
+568	11	KWANGO					64	KASONGO-LUNDA	0		0		0	
+569	11	KWANGO					65	KAHEMBA	155	Muloshi (chefferie)				
+570	11	KWANGO					65	KAHEMBA	156	Mwamushiko (chefferie)				
+571	11	KWANGO					65	KAHEMBA	157	Mwendjila (chefferie)				
+572	11	KWANGO					65	KAHEMBA	193	Bangu (secteur)				
+573	11	KWANGO					65	KAHEMBA	194	Bindu (secteur)				
+574	11	KWANGO					65	KAHEMBA	195	Kulindji (secteur)				
+575	11	KWANGO					65	KAHEMBA	134	Kahemba (commune)				
+576	11	KWANGO					65	KAHEMBA	0		0		0	
+1405	11	KWANGO	0		0		0		0		0		0	
+577	12	KWILU	14	BANDUNDU	135	Basoko								
+578	12	KWILU	14	BANDUNDU	0									
+579	12	KWILU	14	BANDUNDU	136	Disasi								
+580	12	KWILU	14	BANDUNDU	137	Mayoyo								
+581	12	KWILU	15	KIKWIT	141	Kazamba								
+582	12	KWILU	15	KIKWIT	0									
+583	12	KWILU	15	KIKWIT	142	Lukemi								
+584	12	KWILU	15	KIKWIT	151	Lukolela								
+585	12	KWILU	15	KIKWIT	144	Nzinda								
+586	12	KWILU					66	BAGATA	199	Kidzweme (secteur)				
+587	12	KWILU					66	BAGATA	200	Kwango-Kasai (secteur)				
+588	12	KWILU					66	BAGATA	201	kwilu-Ntober (secteur)				
+589	12	KWILU					66	BAGATA	202	Manzasay (secteur)				
+590	12	KWILU					66	BAGATA	203	Wamba-Fatundu (secteur)				
+591	12	KWILU					66	BAGATA	138	Bagata (commune)				
+592	12	KWILU					66	BAGATA	0		0		0	
+593	12	KWILU					67	BULUNGU	204	Dwe (secteur)				
+594	12	KWILU					67	BULUNGU	205	Imbongo (secteur)				
+595	12	KWILU					67	BULUNGU	206	Kilunda (secteur)				
+596	12	KWILU					67	BULUNGU	207	Kipuka (secteur)				
+597	12	KWILU					67	BULUNGU	208	Kwenge (secteur)				
+598	12	KWILU					67	BULUNGU	209	Kwilu-kimbata (secteur)				
+599	12	KWILU					67	BULUNGU	210	Luniungu (secteur)				
+600	12	KWILU					67	BULUNGU	211	Mikwi (secteur)				
+601	12	KWILU					67	BULUNGU	212	Niadi-nkara (secteur)				
+602	12	KWILU					67	BULUNGU	213	Nko (secteur)				
+603	12	KWILU					67	BULUNGU	139	Bulungu (commune)				
+604	12	KWILU					67	BULUNGU	0		0		0	
+605	12	KWILU					68	GUNGU	214	Gungu (secteur)				
+606	12	KWILU					68	GUNGU	215	Kandale (secteur)				
+607	12	KWILU					68	GUNGU	216	Kilamba (secteur)				
+608	12	KWILU					68	GUNGU	217	Kilembe (secteur)				
+609	12	KWILU					68	GUNGU	218	Kisunzu (secteur)				
+610	12	KWILU					68	GUNGU	219	Kobo (secteur)				
+611	12	KWILU					68	GUNGU	220	Kondo (secteur)				
+612	12	KWILU					68	GUNGU	221	Lozo (secteur)				
+613	12	KWILU					68	GUNGU	222	Lukamba (secteur)				
+614	12	KWILU					68	GUNGU	223	Mudikalunga (secteur)				
+615	12	KWILU					68	GUNGU	224	Mungindu (secteur)				
+616	12	KWILU					68	GUNGU	225	Ngudi (secteur)				
+617	12	KWILU					68	GUNGU	140	Gungu (commune)				
+618	12	KWILU					68	GUNGU	0		0		0	
+619	12	KWILU					69	IDIOFA	226	Banga (secteur)				
+620	12	KWILU					69	IDIOFA	227	Belo (secteur)				
+621	12	KWILU					69	IDIOFA	228	Bulweme (secteur)				
+622	12	KWILU					69	IDIOFA	229	Kalanganda (secteur)				
+623	12	KWILU					69	IDIOFA	230	Kanga (secteur)				
+624	12	KWILU					69	IDIOFA	231	Kapia (secteur)				
+625	12	KWILU					69	IDIOFA	232	Kipuku (secteur)				
+626	12	KWILU					69	IDIOFA	233	Madimbi (secteur)				
+627	12	KWILU					69	IDIOFA	234	Mateko (secteur)				
+628	12	KWILU					69	IDIOFA	235	Musanga Idiofa (secteur)				
+629	12	KWILU					69	IDIOFA	236	Sedzo (secteur)				
+630	12	KWILU					69	IDIOFA	237	Yasa-Lokwa (secteur)				
+631	12	KWILU					69	IDIOFA	145	Dibaya Lubwe (commune)				
+632	12	KWILU					69	IDIOFA	146	Idiofa (commune)				
+633	12	KWILU					69	IDIOFA	147	Mangai (commune)				
+634	12	KWILU					69	IDIOFA	148	Panu (commune)				
+635	12	KWILU					69	IDIOFA	0		0		0	
+636	12	KWILU					70	MASI-MANIMBA	238	Bindungi (secteur)				
+637	12	KWILU					70	MASI-MANIMBA	239	Kibolo (secteur)				
+638	12	KWILU					70	MASI-MANIMBA	240	Kinzenga (secteur)				
+639	12	KWILU					70	MASI-MANIMBA	241	Kinzenzengo (secteur)				
+640	12	KWILU					70	MASI-MANIMBA	242	Kitoy (secteur)				
+641	12	KWILU					70	MASI-MANIMBA	243	Masi-Manimba (secteur)				
+642	12	KWILU					70	MASI-MANIMBA	244	Mokamo (secteur)				
+643	12	KWILU					70	MASI-MANIMBA	245	Mosango (secteur)				
+644	12	KWILU					70	MASI-MANIMBA	246	Pay-Kongila (secteur)				
+645	12	KWILU					70	MASI-MANIMBA	247	Sungu (secteur)				
+646	12	KWILU					70	MASI-MANIMBA	149	Masi-Manimba (commune)				
+647	12	KWILU					70	MASI-MANIMBA	0		0		0	
+1406	12	KWILU	0		0		0		0		0		0	
+648	13	LOMAMI	16	KABINDA	152	Kabondo								
+649	13	LOMAMI	16	KABINDA	0									
+650	13	LOMAMI	16	KABINDA	153	Kabwela-Bwela								
+651	13	LOMAMI	16	KABINDA	154	Kajiba								
+652	13	LOMAMI	16	KABINDA	155	Mudingayi								
+653	13	LOMAMI	17	MWENE-DITU	156	Bondoyi								
+654	13	LOMAMI	17	MWENE-DITU	0									
+655	13	LOMAMI	17	MWENE-DITU	157	Musadi								
+656	13	LOMAMI	17	MWENE-DITU	158	Mwene-Ditu								
+657	13	LOMAMI					71	KABINDA	248	Baluba-Lubangule (secteur)				
+658	13	LOMAMI					71	KABINDA	249	Kabinda (secteur)				
+659	13	LOMAMI					71	KABINDA	250	Ludimbi-Lukula (secteur)				
+660	13	LOMAMI					71	KABINDA	251	Lufubu-Lomami (secteur)				
+661	13	LOMAMI					71	KABINDA	252	Lukashiyi-Lualu (secteur)				
+662	13	LOMAMI					71	KABINDA	253	Vunayi (secteur)				
+663	13	LOMAMI					71	KABINDA	0		0		0	
+664	13	LOMAMI					72	KAMIJI	254	Kamiji (secteur)				
+665	13	LOMAMI					72	KAMIJI	255	Luekeshi (secteur)				
+666	13	LOMAMI					72	KAMIJI	159	Kamiji (commune)				
+667	13	LOMAMI					72	KAMIJI	0		0		0	
+668	13	LOMAMI					73	NGANDAJIKA	163	Bakwa - Mulumba (chefferie)				
+669	13	LOMAMI					73	NGANDAJIKA	164	Bena-Kalambayi (chefferie)				
+670	13	LOMAMI					73	NGANDAJIKA	256	Baluba-Shankadi (secteur)				
+671	13	LOMAMI					73	NGANDAJIKA	257	Ngandajika (secteur)				
+672	13	LOMAMI					73	NGANDAJIKA	258	Tshiyamba (secteur)				
+673	13	LOMAMI					73	NGANDAJIKA	160	Ngandajika (commune)				
+674	13	LOMAMI					73	NGANDAJIKA	0		0		0	
+675	13	LOMAMI					74	LUBAO	259	Bekalebwe (secteur)				
+676	13	LOMAMI					74	LUBAO	260	Kisengwa (secteur)				
+677	13	LOMAMI					74	LUBAO	261	Lubao (secteur)				
+678	13	LOMAMI					74	LUBAO	262	Tshofa (secteur)				
+679	13	LOMAMI					74	LUBAO	161	Lubao (commune)				
+680	13	LOMAMI					74	LUBAO	0		0		0	
+681	13	LOMAMI					75	LUILU	160	In-Kan (Kanitshin) (chefferie)				
+682	13	LOMAMI					75	LUILU	161	Katshisungu (chefferie)				
+683	13	LOMAMI					75	LUILU	162	Mulundu(Kanyoka) (chefferie)				
+684	13	LOMAMI					75	LUILU	263	Kanda-kanda (secteur)				
+685	13	LOMAMI					75	LUILU	162	Luputa (commune)				
+686	13	LOMAMI					75	LUILU	0		0		0	
+1407	13	LOMAMI	0		0		0		0		0		0	
+687	14	LUALABA	18	KOLWEZI	163	Dilala								
+688	14	LUALABA	18	KOLWEZI	0									
+689	14	LUALABA	18	KOLWEZI	164	Manika								
+690	14	LUALABA					76	DILOLO	165	Muyeye (chefferie)				
+691	14	LUALABA					76	DILOLO	166	Mwaka Ndala (chefferie)				
+692	14	LUALABA					76	DILOLO	167	Mwatshisenge (chefferie)				
+693	14	LUALABA					76	DILOLO	168	Ndumba (chefferie)				
+694	14	LUALABA					76	DILOLO	169	Saluseke (chefferie)				
+695	14	LUALABA					76	DILOLO	170	Tshisangama (chefferie)				
+696	14	LUALABA					76	DILOLO	264	Luena (secteur)				
+697	14	LUALABA					76	DILOLO	265	Lulua-Lukoshi (secteur)				
+698	14	LUALABA					76	DILOLO	266	Mutanda (secteur)				
+699	14	LUALABA					76	DILOLO	165	Dilolo (commune)				
+700	14	LUALABA					76	DILOLO	166	Kasaji (commune)				
+701	14	LUALABA					76	DILOLO	0		0		0	
+702	14	LUALABA					77	KAPANGA	171	Mwant-Yav (chefferie)				
+703	14	LUALABA					77	KAPANGA	167	Kapanga (commune)				
+704	14	LUALABA					77	KAPANGA	0		0		0	
+705	14	LUALABA					78	LUBUDI	172	Bayeke (chefferie)				
+706	14	LUALABA					78	LUBUDI	173	Mazangule (chefferie)				
+707	14	LUALABA					78	LUBUDI	174	Mulumbu (chefferie)				
+708	14	LUALABA					78	LUBUDI	175	Mwana-Mwadi (chefferie)				
+709	14	LUALABA					78	LUBUDI	168	Lubudi (commune)				
+710	14	LUALABA					78	LUBUDI	169	Fungurume (commune)				
+711	14	LUALABA					78	LUBUDI	0		0		0	
+712	14	LUALABA					79	MUTSHATSHA	267	Lufupa (secteur)				
+713	14	LUALABA					79	MUTSHATSHA	268	Luilu (secteur)				
+714	14	LUALABA					79	MUTSHATSHA	269	Mukuleshi (secteur)				
+715	14	LUALABA					79	MUTSHATSHA	170	Mutshatsha (commune)				
+716	14	LUALABA					79	MUTSHATSHA	0		0		0	
+717	14	LUALABA					80	SANDOA	176	Kayembe-Mukulu (chefferie)				
+718	14	LUALABA					80	SANDOA	177	Lumanga (chefferie)				
+719	14	LUALABA					80	SANDOA	178	Mbako (chefferie)				
+720	14	LUALABA					80	SANDOA	179	Muteba (chefferie)				
+721	14	LUALABA					80	SANDOA	180	Sakundundu (chefferie)				
+722	14	LUALABA					80	SANDOA	181	Samutoma (chefferie)				
+723	14	LUALABA					80	SANDOA	182	Tshibamba (chefferie)				
+724	14	LUALABA					80	SANDOA	183	Tshipao (chefferie)				
+725	14	LUALABA					80	SANDOA	171	Sandoa (commune)				
+726	14	LUALABA					80	SANDOA	0		0		0	
+1408	14	LUALABA	0		0		0		0		0		0	
+727	15	MAI-NDOMBE	19	INONGO	172	Bonse								
+728	15	MAI-NDOMBE	19	INONGO	0									
+729	15	MAI-NDOMBE	19	INONGO	173	Mpolo								
+730	15	MAI-NDOMBE	19	INONGO	174	Mpongonzoli								
+731	15	MAI-NDOMBE					81	INONGO	270	Basengele (secteur)				
+732	15	MAI-NDOMBE					81	INONGO	271	Bolia (secteur)				
+733	15	MAI-NDOMBE					81	INONGO	272	Inongo (secteur)				
+734	15	MAI-NDOMBE					81	INONGO	175	Nland-Embelo (commune)				
+735	15	MAI-NDOMBE					81	INONGO	0		0		0	
+736	15	MAI-NDOMBE					82	KIRI	273	Beronge (secteur)				
+737	15	MAI-NDOMBE					82	KIRI	274	Lutoy (secteur)				
+738	15	MAI-NDOMBE					82	KIRI	275	Pendjwa (secteur)				
+739	15	MAI-NDOMBE					82	KIRI	176	Kiri (commune)				
+740	15	MAI-NDOMBE					82	KIRI	0		0		0	
+741	15	MAI-NDOMBE					83	KUTU	184	Badia (chefferie)				
+742	15	MAI-NDOMBE					83	KUTU	185	Batere (chefferie)				
+743	15	MAI-NDOMBE					83	KUTU	276	Kemba (secteur)				
+744	15	MAI-NDOMBE					83	KUTU	277	Lwabu (secteur)				
+745	15	MAI-NDOMBE					83	KUTU	278	Mfimi (secteur)				
+746	15	MAI-NDOMBE					83	KUTU	177	Bokoro (commune)				
+747	15	MAI-NDOMBE					83	KUTU	178	Kutu (commune)				
+748	15	MAI-NDOMBE					83	KUTU	179	Nioki (commune)				
+749	15	MAI-NDOMBE					83	KUTU	180	Semendwa (commune)				
+750	15	MAI-NDOMBE					83	KUTU	181	Tolo (commune)				
+751	15	MAI-NDOMBE					83	KUTU	0		0		0	
+752	15	MAI-NDOMBE					84	BOLOBO	186	Bateke-Nord (chefferie)				
+753	15	MAI-NDOMBE					84	BOLOBO	182	Bolobo (commune)				
+754	15	MAI-NDOMBE					84	BOLOBO	0		0		0	
+755	15	MAI-NDOMBE					85	OSHWE	279	Entre Lukenie-Kokoro ELL (Nkaw) (secteur)				
+756	15	MAI-NDOMBE					85	OSHWE	280	Kangara (secteur)				
+757	15	MAI-NDOMBE					85	OSHWE	281	Lokalama (secteur)				
+758	15	MAI-NDOMBE					85	OSHWE	282	Lukeni (secteur)				
+759	15	MAI-NDOMBE					85	OSHWE	183	Oshwe (commune)				
+760	15	MAI-NDOMBE					85	OSHWE	0		0		0	
+761	15	MAI-NDOMBE					86	KWAMOUTH	283	Bateke-sud/Twa (secteur)				
+762	15	MAI-NDOMBE					86	KWAMOUTH	184	Kwamouth (commune)				
+763	15	MAI-NDOMBE					86	KWAMOUTH	0		0		0	
+764	15	MAI-NDOMBE					87	MUSHIE	187	Baboma-Nord (chefferie)				
+765	15	MAI-NDOMBE					87	MUSHIE	185	Mushie (commune)				
+766	15	MAI-NDOMBE					87	MUSHIE	0		0		0	
+767	15	MAI-NDOMBE					88	YUMBI	284	Mongama (secteur)				
+768	15	MAI-NDOMBE					88	YUMBI	186	Yumbi (commune)				
+769	15	MAI-NDOMBE					88	YUMBI	0		0		0	
+1409	15	MAI-NDOMBE	0		0		0		0		0		0	
+770	16	MANIEMA	20	KINDU	187	Alunguli								
+771	16	MANIEMA	20	KINDU	0									
+772	16	MANIEMA	20	KINDU	188	Kasuku								
+773	16	MANIEMA	20	KINDU	189	Mikelenge								
+774	16	MANIEMA					89	KABAMBARE	285	Babuyu (secteur)				
+775	16	MANIEMA					89	KABAMBARE	286	BB/ Bahemba (secteur)				
+776	16	MANIEMA					89	KABAMBARE	287	BB/ Kabambare-Bahombo (secteur)				
+777	16	MANIEMA					89	KABAMBARE	288	BB/ Lulindi (secteur)				
+778	16	MANIEMA					89	KABAMBARE	289	BB/ Salamabila (secteur)				
+779	16	MANIEMA					89	KABAMBARE	290	BB/ Wamaza (secteur)				
+780	16	MANIEMA					89	KABAMBARE	190	Kabambare (commune)				
+781	16	MANIEMA					89	KABAMBARE	0		0		0	
+782	16	MANIEMA					90	KAILO	188	Bangengele (chefferie)				
+783	16	MANIEMA					90	KAILO	291	Ambwe (secteur)				
+784	16	MANIEMA					90	KAILO	292	Balanga (secteur)				
+785	16	MANIEMA					90	KAILO	293	Wasongola (secteur)				
+786	16	MANIEMA					90	KAILO	191	Kailo (commune)				
+787	16	MANIEMA					90	KAILO	0		0		0	
+788	16	MANIEMA					91	KASONGO	189	BaKwange (chefferie)				
+789	16	MANIEMA					91	KASONGO	190	Bassonge I (chefferie)				
+790	16	MANIEMA					91	KASONGO	191	Benia Samba (chefferie)				
+791	16	MANIEMA					91	KASONGO	192	Nonda (chefferie)				
+792	16	MANIEMA					91	KASONGO	193	Wagenia (chefferie)				
+793	16	MANIEMA					91	KASONGO	194	Wazula (chefferie)				
+794	16	MANIEMA					91	KASONGO	294	Basonge II Mweho (secteur)				
+795	16	MANIEMA					91	KASONGO	295	Mamba-Kasenga (secteur)				
+796	16	MANIEMA					91	KASONGO	296	Wazimba-wa-Maringa (secteur)				
+797	16	MANIEMA					91	KASONGO	297	Wazimba- wa-Mulu (secteur)				
+798	16	MANIEMA					91	KASONGO	192	Kasongo (commune)				
+799	16	MANIEMA					91	KASONGO	193	Kibombo (commune)				
+800	16	MANIEMA					91	KASONGO	0		0		0	
+801	16	MANIEMA					92	KIBOMBO	195	Aluba (chefferie)				
+802	16	MANIEMA					92	KIBOMBO	196	Ankutshu (chefferie)				
+803	16	MANIEMA					92	KIBOMBO	197	Bahina (chefferie)				
+804	16	MANIEMA					92	KIBOMBO	198	Bakongola (chefferie)				
+805	16	MANIEMA					92	KIBOMBO	199	Matapa (chefferie)				
+806	16	MANIEMA					92	KIBOMBO	0		0		0	
+807	16	MANIEMA					93	LUBUTU	298	Bitule (secteur)				
+808	16	MANIEMA					93	LUBUTU	299	Obokote (secteur)				
+809	16	MANIEMA					93	LUBUTU	194	Lubutu (commune)				
+810	16	MANIEMA					93	LUBUTU	0		0		0	
+811	16	MANIEMA					94	PANGI	200	Babene (chefferie)				
+812	16	MANIEMA					94	PANGI	300	Beia (secteur)				
+813	16	MANIEMA					94	PANGI	301	Ikama (secteur)				
+814	16	MANIEMA					94	PANGI	302	Wakabango ii (secteur)				
+815	16	MANIEMA					94	PANGI	196	Pangi (commune)				
+816	16	MANIEMA					94	PANGI	195	Kalima (commune)				
+817	16	MANIEMA					94	PANGI	0		0		0	
+818	16	MANIEMA					95	PUNIA	303	Babira-Bakwame (secteur)				
+819	16	MANIEMA					95	PUNIA	304	Baleka (secteur)				
+820	16	MANIEMA					95	PUNIA	305	Ulindi (secteur)				
+821	16	MANIEMA					95	PUNIA	197	Punia (commune)				
+822	16	MANIEMA					95	PUNIA	0		0		0	
+1410	16	MANIEMA	0		0		0		0		0		0	
+823	17	MONGALA	21	LISALA	198	Mongala								
+824	17	MONGALA	21	LISALA	0									
+825	17	MONGALA	21	LISALA	199	Bolikango								
+826	17	MONGALA					96	BONGANDANGA	306	Bongandanga (secteur)				
+827	17	MONGALA					96	BONGANDANGA	307	Boso-Djanoa (secteur)				
+828	17	MONGALA					96	BONGANDANGA	308	Boso-Melo (secteur)				
+829	17	MONGALA					96	BONGANDANGA	309	Boso-Simba (secteur)				
+830	17	MONGALA					96	BONGANDANGA	200	Bongandanga (commune)				
+831	17	MONGALA					96	BONGANDANGA	0		0		0	
+832	17	MONGALA					97	BUMBA	310	Banda-Yowa (secteur)				
+833	17	MONGALA					97	BUMBA	311	Itimbiri (secteur)				
+834	17	MONGALA					97	BUMBA	312	Loeka (secteur)				
+835	17	MONGALA					97	BUMBA	313	Molua (secteur)				
+836	17	MONGALA					97	BUMBA	314	Mozamboli (secteur)				
+837	17	MONGALA					97	BUMBA	315	Yandongi (secteur)				
+838	17	MONGALA					97	BUMBA	201	Bumba (commune)				
+839	17	MONGALA					97	BUMBA	0		0		0	
+840	17	MONGALA					98	LISALA	316	Mongala-Motima (secteur)				
+841	17	MONGALA					98	LISALA	317	Ngombe-Doko (secteur)				
+842	17	MONGALA					98	LISALA	318	Ngombe-Mombangi (secteur)				
+843	17	MONGALA					98	LISALA	202	Binga (commune)				
+844	17	MONGALA					98	LISALA	0		0		0	
+1411	17	MONGALA	0		0		0		0		0		0	
+845	18	NORD-KIVU	22	BENI	203	Beni								
+846	18	NORD-KIVU	22	BENI	0									
+847	18	NORD-KIVU	22	BENI	204	Bungulu								
+848	18	NORD-KIVU	22	BENI	205	Mulekera								
+849	18	NORD-KIVU	22	BENI	206	Ruwenzori								
+850	18	NORD-KIVU	23	BUTEMBO	207	Bulengera								
+851	18	NORD-KIVU	23	BUTEMBO	0									
+852	18	NORD-KIVU	23	BUTEMBO	208	Kimemi								
+853	18	NORD-KIVU	23	BUTEMBO	209	Mususa								
+854	18	NORD-KIVU	23	BUTEMBO	210	Vulamba								
+855	18	NORD-KIVU	24	GOMA	211	Goma								
+856	18	NORD-KIVU	24	GOMA	0									
+857	18	NORD-KIVU	24	GOMA	212	Karisimbi								
+858	18	NORD-KIVU					99	WALIKALE	319	Bakano (secteur)				
+859	18	NORD-KIVU					99	WALIKALE	320	Wanianga (secteur)				
+860	18	NORD-KIVU					99	WALIKALE	213	Walikale (commune)				
+861	18	NORD-KIVU					99	WALIKALE	0		0		0	
+862	18	NORD-KIVU					100	NYIRAGONGO	201	Bakumu (chefferie)				
+863	18	NORD-KIVU					100	NYIRAGONGO	0		0		0	
+864	18	NORD-KIVU					101	LUBERO	202	Bamate (chefferie)				
+865	18	NORD-KIVU					101	LUBERO	203	Baswagha (chefferie)				
+866	18	NORD-KIVU					101	LUBERO	204	Batangi (chefferie)				
+867	18	NORD-KIVU					101	LUBERO	321	Bapere (secteur)				
+868	18	NORD-KIVU					101	LUBERO	214	Lubero (commune)				
+869	18	NORD-KIVU					101	LUBERO	215	Kanabayonga (commune)				
+870	18	NORD-KIVU					101	LUBERO	216	Kayina (commune)				
+871	18	NORD-KIVU					101	LUBERO	217	Kirumba (commune)				
+872	18	NORD-KIVU					101	LUBERO	0		0		0	
+873	18	NORD-KIVU					102	MASISI	205	Bahunde (chefferie)				
+874	18	NORD-KIVU					102	MASISI	206	Bashali (chefferie)				
+875	18	NORD-KIVU					102	MASISI	322	Katoyi (secteur)				
+876	18	NORD-KIVU					102	MASISI	323	Osso Banyungu (secteur)				
+877	18	NORD-KIVU					102	MASISI	218	Masisi (commune)				
+878	18	NORD-KIVU					102	MASISI	0		0		0	
+879	18	NORD-KIVU					103	BENI (OICHA)	207	Bashu (chefferie)				
+880	18	NORD-KIVU					103	BENI (OICHA)	208	Watalinga (chefferie)				
+881	18	NORD-KIVU					103	BENI (OICHA)	324	Beni Mbau (secteur)				
+882	18	NORD-KIVU					103	BENI (OICHA)	325	Ruwenzori (secteur)				
+883	18	NORD-KIVU					103	BENI (OICHA)	219	Bulongo (commune)				
+884	18	NORD-KIVU					103	BENI (OICHA)	220	Kyondo (commune)				
+885	18	NORD-KIVU					103	BENI (OICHA)	221	Lume (commune)				
+886	18	NORD-KIVU					103	BENI (OICHA)	222	Mangina (commune)				
+887	18	NORD-KIVU					103	BENI (OICHA)	223	Oicha (commune)				
+888	18	NORD-KIVU					103	BENI (OICHA)	0		0		0	
+889	18	NORD-KIVU					104	RUTSHURU	209	Bwisha (chefferie)				
+890	18	NORD-KIVU					104	RUTSHURU	210	Bwito (chefferie)				
+891	18	NORD-KIVU					104	RUTSHURU	224	Rutshuru (commune)				
+892	18	NORD-KIVU					104	RUTSHURU	0		0		0	
+1412	0	NORD-KIVU	0		0		0		0		0		0	
+893	19	NORD-UBANGI	26	GBADOLITE	225	Gbadolite								
+894	19	NORD-UBANGI	26	GBADOLITE	0									
+895	19	NORD-UBANGI	26	GBADOLITE	226	Molegbe								
+896	19	NORD-UBANGI	26	GBADOLITE	227	Nganza								
+897	19	NORD-UBANGI					105	BOSOLOBOLO	326	Banda s (secteur)				
+898	19	NORD-UBANGI					105	BOSOLOBOLO	327	Bili (secteur)				
+899	19	NORD-UBANGI					105	BOSOLOBOLO	328	Bosobolo (secteur)				
+900	19	NORD-UBANGI					105	BOSOLOBOLO	228	Bosolobolo (commune)				
+901	19	NORD-UBANGI					105	BOSOLOBOLO	0		0		0	
+902	19	NORD-UBANGI					106	BUSINGA	329	Bodangabo (secteur)				
+903	19	NORD-UBANGI					106	BUSINGA	330	Businga (secteur)				
+904	19	NORD-UBANGI					106	BUSINGA	331	Karawa (secteur)				
+905	19	NORD-UBANGI					106	BUSINGA	229	Businga (commune)				
+906	19	NORD-UBANGI					106	BUSINGA	0		0		0	
+907	19	NORD-UBANGI					107	MOBAYI-MBONGO	332	Mobay i-Mbongo (secteur)				
+908	19	NORD-UBANGI					107	MOBAYI-MBONGO	333	Otto-Banza (secteur)				
+909	19	NORD-UBANGI					107	MOBAYI-MBONGO	230	Mobayi-Mbongo (commune)				
+910	19	NORD-UBANGI					107	MOBAYI-MBONGO	0		0		0	
+911	19	NORD-UBANGI					108	YAKOMA	334	Abumombazi (secteur)				
+912	19	NORD-UBANGI					108	YAKOMA	335	Wapinda (secteur)				
+913	19	NORD-UBANGI					108	YAKOMA	336	Yakoma (secteur)				
+914	19	NORD-UBANGI					108	YAKOMA	231	Yakoma (commune)				
+915	19	NORD-UBANGI					108	YAKOMA	0		0		0	
+1413	19	NORD-UBANGI	0		0		0		0		0		0	
+916	20	SANKURU	27	LUSAMBO	232	Kabondo								
+917	20	SANKURU	27	LUSAMBO	0									
+918	20	SANKURU	27	LUSAMBO	233	Lumpemba								
+919	20	SANKURU	27	LUSAMBO	234	Lusambo								
+920	20	SANKURU	27	LUSAMBO	235	Tusuanganyi								
+921	20	SANKURU					109	KOLE	337	Atshuru (secteur)				
+922	20	SANKURU					109	KOLE	338	Bankutshu-Dibele (secteur)				
+923	20	SANKURU					109	KOLE	339	Bankutshu-Lukenie (secteur)				
+924	20	SANKURU					109	KOLE	340	Basho (secteur)				
+925	20	SANKURU					109	KOLE	341	Batetela Dibele (secteur)				
+926	20	SANKURU					109	KOLE	342	Ohindo (secteur)				
+927	20	SANKURU					109	KOLE	236	Kole (commune)				
+928	20	SANKURU					109	KOLE	0		0		0	
+929	20	SANKURU					110	LODJA	343	Ahamba Mange (secteur)				
+930	20	SANKURU					110	LODJA	344	Kondo-Tshumbe (secteur)				
+931	20	SANKURU					110	LODJA	345	Lukfungu (secteur)				
+932	20	SANKURU					110	LODJA	346	Lutshimba –Eduo-Piete-Kolombe (secteur)				
+933	20	SANKURU					110	LODJA	347	Nambelo-Lohembe (secteur)				
+934	20	SANKURU					110	LODJA	348	Olemba (secteur)				
+935	20	SANKURU					110	LODJA	349	Vunge (secteur)				
+936	20	SANKURU					110	LODJA	350	Watambulu (secteur)				
+937	20	SANKURU					110	LODJA	237	Lodja (commune)				
+938	20	SANKURU					110	LODJA	0		0		0	
+939	20	SANKURU					111	LOMELA	212	Djonga (chefferie)				
+940	20	SANKURU					111	LOMELA	351	Bahamba I (secteur)				
+941	20	SANKURU					111	LOMELA	352	bahamba II (secteur)				
+942	20	SANKURU					111	LOMELA	353	Bakela (secteur)				
+943	20	SANKURU					111	LOMELA	354	Batetela Lomela (secteur)				
+944	20	SANKURU					111	LOMELA	355	Okutu (secteur)				
+945	20	SANKURU					111	LOMELA	238	Lomela (commune)				
+946	20	SANKURU					111	LOMELA	0		0		0	
+947	20	SANKURU					112	KATAKO-KOMBE	211	Batetela arabisés-Lomami (chefferie)				
+948	20	SANKURU					112	KATAKO-KOMBE	357	Basambala (secteur)				
+949	20	SANKURU					112	KATAKO-KOMBE	358	Djalo (secteur)				
+950	20	SANKURU					112	KATAKO-KOMBE	359	Lonya (secteur)				
+951	20	SANKURU					112	KATAKO-KOMBE	360	Lukumbe (secteur)				
+952	20	SANKURU					112	KATAKO-KOMBE	361	Ngandu de Katako-Kombe (secteur)				
+953	20	SANKURU					112	KATAKO-KOMBE	362	Ukulungu (secteur)				
+954	20	SANKURU					112	KATAKO-KOMBE	363	Watambulu-Nord (secteur)				
+955	20	SANKURU					112	KATAKO-KOMBE	364	Watambulu-Sud (secteur)				
+956	20	SANKURU					112	KATAKO-KOMBE	239	Katako-Kombe (commune)				
+957	20	SANKURU					112	KATAKO-KOMBE	0		0		0	
+958	20	SANKURU					113	LUBEFU	369	Basonge (secteur)				
+959	20	SANKURU					113	LUBEFU	366	Mondja-Ngandu (secteur)				
+960	20	SANKURU					113	LUBEFU	367	Ndjovu (secteur)				
+961	20	SANKURU					113	LUBEFU	368	Ngandu-Wuma (secteur)				
+962	20	SANKURU					113	LUBEFU	240	Lubefu (commune)				
+963	20	SANKURU					113	LUBEFU	0		0		0	
+964	20	SANKURU					114	LUSAMBO	365	Basonge (secteur)				
+965	20	SANKURU					114	LUSAMBO	370	Batetela (secteur)				
+966	20	SANKURU					114	LUSAMBO	371	E.K.M (Entre Kunduye Maalaba) (secteur)				
+967	20	SANKURU					114	LUSAMBO	372	E.L.K (Entre Lubi Kunduye) (secteur)				
+968	20	SANKURU					114	LUSAMBO	373	Kashindi (secteur)				
+969	20	SANKURU					114	LUSAMBO	374	Lubi (secteur)				
+970	20	SANKURU					114	LUSAMBO	375	Mpania-Mutombo (secteur)				
+971	20	SANKURU					114	LUSAMBO	376	Sankuru (secteur)				
+972	20	SANKURU					114	LUSAMBO	0		0		0	
+1414	20	SANKURU	0		0		0		0		0		0	
+973	21	SUD-KIVU	28	BUKAVU	241	Bagira								
+974	21	SUD-KIVU	28	BUKAVU	0									
+975	21	SUD-KIVU	28	BUKAVU	242	Ibanda								
+976	21	SUD-KIVU	28	BUKAVU	243	Kadutu								
+977	21	SUD-KIVU					115	FIZI	377	Lulenge (secteur)				
+978	21	SUD-KIVU					115	FIZI	378	Mutambala (secteur)				
+979	21	SUD-KIVU					115	FIZI	379	Ngandja (secteur)				
+980	21	SUD-KIVU					115	FIZI	380	Tanganyika (secteur)				
+981	21	SUD-KIVU					115	FIZI	244	Fizi (commune)				
+982	21	SUD-KIVU					115	FIZI	0		0		0	
+983	21	SUD-KIVU					116	KABARE	213	Kabare (chefferie)				
+984	21	SUD-KIVU					116	KABARE	214	Nindja (chefferie)				
+985	21	SUD-KIVU					116	KABARE	0		0		0	
+986	21	SUD-KIVU					117	KALEHE	215	Buhavu (chefferie)				
+987	21	SUD-KIVU					117	KALEHE	216	Buloho (chefferie)				
+988	21	SUD-KIVU					117	KALEHE	0		0		0	
+989	21	SUD-KIVU					118	MWENGA	217	Basile (chefferie)				
+990	21	SUD-KIVU					118	MWENGA	218	Burhinyi (chefferie)				
+991	21	SUD-KIVU					118	MWENGA	219	Luhwindja (chefferie)				
+992	21	SUD-KIVU					118	MWENGA	220	Luindi (chefferie)				
+993	21	SUD-KIVU					118	MWENGA	221	Wamuzimu (chefferie)				
+994	21	SUD-KIVU					118	MWENGA	381	Itombwe (secteur)				
+995	21	SUD-KIVU					118	MWENGA	245	Kamituga (commune)				
+996	21	SUD-KIVU					118	MWENGA	0		0		0	
+997	21	SUD-KIVU					119	SHABUNDA	222	Bakisi (chefferie)				
+998	21	SUD-KIVU					119	SHABUNDA	223	Wakabango (chefferie)				
+999	21	SUD-KIVU					119	SHABUNDA	246	Shabunda (commune)				
+1000	21	SUD-KIVU					119	SHABUNDA	0		0		0	
+1001	21	SUD-KIVU					120	IDJWI	224	Ntambuka (chefferie)				
+1002	21	SUD-KIVU					120	IDJWI	225	Rubenga (chefferie)				
+1003	21	SUD-KIVU					120	IDJWI	0		0		0	
+1004	21	SUD-KIVU					121	UVIRA	226	Bafulero (chefferie)				
+1005	21	SUD-KIVU					121	UVIRA	227	Bavira (chefferie)				
+1006	21	SUD-KIVU					121	UVIRA	228	Plaine de la Ruzizi (chefferie)				
+1007	21	SUD-KIVU					121	UVIRA	247	Kiliba (commune)				
+1008	21	SUD-KIVU					121	UVIRA	248	Luvungi (commune)				
+1009	21	SUD-KIVU					121	UVIRA	249	Sange (commune)				
+1010	21	SUD-KIVU					121	UVIRA	250	Uvira (commune)				
+1011	21	SUD-KIVU					121	UVIRA	0		0		0	
+1012	21	SUD-KIVU					122	WALUNGU	229	Kaziba (chefferie)				
+1013	21	SUD-KIVU					122	WALUNGU	230	Ngweshe (chefferie)				
+1014	21	SUD-KIVU					122	WALUNGU	0		0		0	
+1415	21	SUD-KIVU	0		0		0		0		0		0	
+1015	22	SUD-UBANGI	29	GEMENA	251	Gbazubu								
+1016	22	SUD-UBANGI	29	GEMENA	0									
+1017	22	SUD-UBANGI	29	GEMENA	252	Mont Gila								
+1018	22	SUD-UBANGI	29	GEMENA	253	Labo								
+1019	22	SUD-UBANGI	29	GEMENA	254	Lac-Ntumba								
+1020	22	SUD-UBANGI	30	ZONGO	255	Nzulu								
+1021	22	SUD-UBANGI	30	ZONGO	0									
+1022	22	SUD-UBANGI	30	ZONGO	256	Wango								
+1023	22	SUD-UBANGI					123	BUDJALA	382	Banza (secteur)				
+1024	22	SUD-UBANGI					123	BUDJALA	383	Bolingo (secteur)				
+1025	22	SUD-UBANGI					123	BUDJALA	384	Mongala-Kuma (secteur)				
+1026	22	SUD-UBANGI					123	BUDJALA	385	Ndolo-Liboko (secteur)				
+1027	22	SUD-UBANGI					123	BUDJALA	386	Ngombe-Doko de Lukimi (secteur)				
+1028	22	SUD-UBANGI					123	BUDJALA	257	Budjala (commune)				
+1029	22	SUD-UBANGI					123	BUDJALA	0		0		0	
+1030	22	SUD-UBANGI					124	GEMENA	387	Banga-Kungu (secteur)				
+1031	22	SUD-UBANGI					124	GEMENA	388	Bowase (secteur)				
+1032	22	SUD-UBANGI					124	GEMENA	389	Mbari (secteur)				
+1033	22	SUD-UBANGI					124	GEMENA	390	Nguya (secteur)				
+1034	22	SUD-UBANGI					124	GEMENA	0		0		0	
+1035	22	SUD-UBANGI					125	KUNGU	391	Bomboma (secteur)				
+1036	22	SUD-UBANGI					125	KUNGU	392	Dongo (secteur)				
+1037	22	SUD-UBANGI					125	KUNGU	393	Lua (secteur)				
+1038	22	SUD-UBANGI					125	KUNGU	394	Mwanda-Bomole (secteur)				
+1039	22	SUD-UBANGI					125	KUNGU	395	Songo (secteur)				
+1040	22	SUD-UBANGI					125	KUNGU	258	Kungu (commune)				
+1041	22	SUD-UBANGI					125	KUNGU	0		0		0	
+1042	22	SUD-UBANGI					126	LIBENGE	397	Libenge -Nord (secteur)				
+1043	22	SUD-UBANGI					126	LIBENGE	396	Libenge –Centre (secteur)				
+1044	22	SUD-UBANGI					126	LIBENGE	398	Libenge –Sud (secteur)				
+1045	22	SUD-UBANGI					126	LIBENGE	259	Libenge (commune)				
+1046	22	SUD-UBANGI					126	LIBENGE	0		0		0	
+1420	22	SUD-UBANGI	0		0		0		0		0		0	
+1047	23	TANGANYIKA	31	KALEMIE	260	Lac								
+1048	23	TANGANYIKA	31	KALEMIE	0									
+1049	23	TANGANYIKA	31	KALEMIE	261	Lukuga								
+1050	23	TANGANYIKA	31	KALEMIE	262	Kalemie								
+1051	23	TANGANYIKA					127	KABALO	399	Luela-Luvunguyi (secteur)				
+1052	23	TANGANYIKA					127	KABALO	400	Lukuswa (secteur)				
+1053	23	TANGANYIKA					127	KABALO	263	Kabalo (commune)				
+1054	23	TANGANYIKA					127	KABALO	0		0		0	
+1055	23	TANGANYIKA					128	NYUNZU	401	Nord-Lukuga (secteur)				
+1056	23	TANGANYIKA					128	NYUNZU	402	Sud-Lukuga (secteur)				
+1057	23	TANGANYIKA					128	NYUNZU	264	Nyunzu (commune)				
+1058	23	TANGANYIKA					128	NYUNZU	0		0		0	
+1059	23	TANGANYIKA					129	KONGOLO	231	Bayashi (chefferie)				
+1060	23	TANGANYIKA					129	KONGOLO	232	Bena-nyembo (chefferie)				
+1061	23	TANGANYIKA					129	KONGOLO	233	Lubunda (chefferie)				
+1062	23	TANGANYIKA					129	KONGOLO	234	Mambwe (chefferie)				
+1063	23	TANGANYIKA					129	KONGOLO	235	Munono (chefferie)				
+1064	23	TANGANYIKA					129	KONGOLO	236	Nkuvu (chefferie)				
+1065	23	TANGANYIKA					129	KONGOLO	237	Yambula (chefferie)				
+1066	23	TANGANYIKA					129	KONGOLO	403	Baluba (secteur)				
+1067	23	TANGANYIKA					129	KONGOLO	404	Basonge (secteur)				
+1068	23	TANGANYIKA					129	KONGOLO	265	Kongolo (commune)				
+1069	23	TANGANYIKA					129	KONGOLO	0		0		0	
+1070	23	TANGANYIKA					130	MANONO	238	Bakongolo (chefferie)				
+1071	23	TANGANYIKA					130	MANONO	405	Kamalondo (secteur)				
+1072	23	TANGANYIKA					130	MANONO	406	Kiluba (secteur)				
+1073	23	TANGANYIKA					130	MANONO	407	Kyofwe (secteur)				
+1074	23	TANGANYIKA					130	MANONO	408	Luvua (secteur)				
+1075	23	TANGANYIKA					130	MANONO	409	Nyemba (secteur)				
+1076	23	TANGANYIKA					130	MANONO	266	Manono (commune)				
+1077	23	TANGANYIKA					130	MANONO	0		0		0	
+1078	23	TANGANYIKA					131	MOBA	239	Bena-Tanga (chefferie)				
+1079	23	TANGANYIKA					131	MOBA	240	Kansabala (chefferie)				
+1080	23	TANGANYIKA					131	MOBA	241	Kayabala (chefferie)				
+1081	23	TANGANYIKA					131	MOBA	242	Manda (chefferie)				
+1082	23	TANGANYIKA					131	MOBA	243	Nganie (chefferie)				
+1083	23	TANGANYIKA					131	MOBA	410	Bena-Kamanya (secteur)				
+1084	23	TANGANYIKA					131	MOBA	267	Moba (commune)				
+1085	23	TANGANYIKA					131	MOBA	0		0		0	
+1086	23	TANGANYIKA					132	KALEMIE	244	Benze (chefferie)				
+1087	23	TANGANYIKA					132	KALEMIE	245	Rutuku (chefferie)				
+1088	23	TANGANYIKA					132	KALEMIE	246	Tumbwe (chefferie)				
+1089	23	TANGANYIKA					132	KALEMIE	0		0		0	
+1416	23	TANGANYIKA	0		0		0		0		0		0	
+1090	24	TSHOPO	32	KISANGANI	268	Kabondo								
+1091	24	TSHOPO	32	KISANGANI	0									
+1092	24	TSHOPO	32	KISANGANI	269	Kisangani								
+1093	24	TSHOPO	32	KISANGANI	270	Lubunga								
+1094	24	TSHOPO	32	KISANGANI	271	Makiso								
+1095	24	TSHOPO	32	KISANGANI	272	Mangobo								
+1096	24	TSHOPO	32	KISANGANI	273	Tshopo								
+1097	24	TSHOPO					133	ISANGI	247	Bolomboki (chefferie)				
+1098	24	TSHOPO					133	ISANGI	248	Kombe (chefferie)				
+1099	24	TSHOPO					133	ISANGI	249	Liutua (chefferie)				
+1100	24	TSHOPO					133	ISANGI	250	Yalihila (chefferie)				
+1101	24	TSHOPO					133	ISANGI	251	Yalikoka-Mboso (chefferie)				
+1102	24	TSHOPO					133	ISANGI	411	Baluoalambila (secteur)				
+1103	24	TSHOPO					133	ISANGI	412	Bambelota (secteur)				
+1104	24	TSHOPO					133	ISANGI	413	Lokombe (secteur)				
+1105	24	TSHOPO					133	ISANGI	414	Luete (secteur)				
+1106	24	TSHOPO					133	ISANGI	433	Turumbu (secteur)				
+1107	24	TSHOPO					133	ISANGI	416	Yalikandja-Yanonge (secteur)				
+1108	24	TSHOPO					133	ISANGI	417	Yaokandja (secteur)				
+1109	24	TSHOPO					133	ISANGI	418	Yawembe-Basoa (secteur)				
+1110	24	TSHOPO					133	ISANGI	274	Isangi (commune)				
+1111	24	TSHOPO					133	ISANGI	0		0		0	
+1112	24	TSHOPO					134	BAFWASENDE	419	Bafwandaka (secteur)				
+1113	24	TSHOPO					134	BAFWASENDE	420	Bakumu d’Angumu (secteur)				
+1114	24	TSHOPO					134	BAFWASENDE	421	Bakundumu (secteur)				
+1115	24	TSHOPO					134	BAFWASENDE	422	Barumbi-Opienge (secteur)				
+1116	24	TSHOPO					134	BAFWASENDE	423	Bekeni-Kondolole (secteur)				
+1117	24	TSHOPO					134	BAFWASENDE	424	Bemili (secteur)				
+1118	24	TSHOPO					134	BAFWASENDE	275	Bafwasende (commune)				
+1119	24	TSHOPO					134	BAFWASENDE	276	Yangambi (commune)				
+1120	24	TSHOPO					134	BAFWASENDE	0		0		0	
+1121	24	TSHOPO					135	BANALIA	252	Baboro (chefferie)				
+1122	24	TSHOPO					135	BANALIA	425	Baboa de Kole (secteur)				
+1123	24	TSHOPO					135	BANALIA	426	Bamanga (secteur)				
+1124	24	TSHOPO					135	BANALIA	427	Banalia-Bangba (secteur)				
+1125	24	TSHOPO					135	BANALIA	428	Popoy (secteur)				
+1126	24	TSHOPO					135	BANALIA	277	Banalia (commune)				
+1127	24	TSHOPO					135	BANALIA	0		0		0	
+1128	24	TSHOPO					136	BASOKO	253	Wahanga (chefferie)				
+1129	24	TSHOPO					136	BASOKO	254	Yaliwasa (chefferie)				
+1130	24	TSHOPO					136	BASOKO	255	Yamandundu (chefferie)				
+1131	24	TSHOPO					136	BASOKO	429	Bangelema-Mongandjo (secteur)				
+1132	24	TSHOPO					136	BASOKO	430	Bomenge (secteur)				
+1133	24	TSHOPO					136	BASOKO	431	Lokutu (secteur)				
+1134	24	TSHOPO					136	BASOKO	432	Mobango-Itimbiri (secteur)				
+1135	24	TSHOPO					136	BASOKO	415	Turumbu (secteur)				
+1136	24	TSHOPO					136	BASOKO	278	Basoko (commune)				
+1137	24	TSHOPO					136	BASOKO	0		0		0	
+1138	24	TSHOPO					137	OPALA	256	Kembe (chefferie)				
+1139	24	TSHOPO					137	OPALA	257	Mongo (chefferie)				
+1140	24	TSHOPO					137	OPALA	258	Yalingo (chefferie)				
+1141	24	TSHOPO					137	OPALA	259	Yamaie (chefferie)				
+1142	24	TSHOPO					137	OPALA	260	Yapandu (chefferie)				
+1143	24	TSHOPO					137	OPALA	261	Yeyango (chefferie)				
+1144	24	TSHOPO					137	OPALA	434	Balinga-Lindja (secteur)				
+1145	24	TSHOPO					137	OPALA	435	Iye (secteur)				
+1146	24	TSHOPO					137	OPALA	436	Lobaie (secteur)				
+1147	24	TSHOPO					137	OPALA	437	Tooli (secteur)				
+1148	24	TSHOPO					137	OPALA	438	Yawende-Loolo (secteur)				
+1149	24	TSHOPO					137	OPALA	279	Opala (commune)				
+1150	24	TSHOPO					137	OPALA	0		0		0	
+1151	24	TSHOPO					138	UBUNDU	262	Kirundu (chefferie)				
+1152	24	TSHOPO					138	UBUNDU	263	Walengola-Lilo (chefferie)				
+1153	24	TSHOPO					138	UBUNDU	439	Bakumu-d’Obiatuku (secteur)				
+1154	24	TSHOPO					138	UBUNDU	440	Bakumu-Kilinga (secteur)				
+1155	24	TSHOPO					138	UBUNDU	441	Bakumu-Mandombe (secteur)				
+1156	24	TSHOPO					138	UBUNDU	443	Mituku-Bamoya (secteur)				
+1157	24	TSHOPO					138	UBUNDU	445	Walengola-Babira (secteur)				
+1158	24	TSHOPO					138	UBUNDU	446	Walengola-Baleka (secteur)				
+1159	24	TSHOPO					138	UBUNDU	447	Walngola-Lowa (secteur)				
+1160	24	TSHOPO					138	UBUNDU	280	Ubundu (commune)				
+1161	24	TSHOPO					138	UBUNDU	0		0		0	
+1162	24	TSHOPO					139	YAHUMA	264	Mombesa (chefferie)				
+1163	24	TSHOPO					139	YAHUMA	448	Bolinga (secteur)				
+1164	24	TSHOPO					139	YAHUMA	449	Bosoku (secteur)				
+1165	24	TSHOPO					139	YAHUMA	450	Buma (secteur)				
+1166	24	TSHOPO					139	YAHUMA	281	Yahuma (commune)				
+1167	24	TSHOPO					139	YAHUMA	0		0		0	
+1417	24	TSHOPO	0		0		0		0		0		0	
+1168	25	TSHUAPA	33	BOENDE	282	Boende								
+1169	25	TSHUAPA	33	BOENDE	0									
+1170	25	TSHUAPA	33	BOENDE	283	Tshuapa								
+1171	25	TSHUAPA					140	BEFALE	451	Befumbo (secteur)				
+1172	25	TSHUAPA					140	BEFALE	452	Duale (secteur)				
+1173	25	TSHUAPA					140	BEFALE	453	Lomako (secteur)				
+1174	25	TSHUAPA					140	BEFALE	284	Befale (commune)				
+1175	25	TSHUAPA					140	BEFALE	0		0		0	
+1176	25	TSHUAPA					141	BOENDE	454	Bolua (secteur)				
+1177	25	TSHUAPA					141	BOENDE	455	Djera (secteur)				
+1178	25	TSHUAPA					141	BOENDE	456	Lofoy (secteur)				
+1179	25	TSHUAPA					141	BOENDE	457	Wini (secteur)				
+1180	25	TSHUAPA					141	BOENDE	0		0		0	
+1181	25	TSHUAPA					142	BOKUNGU	265	Nkole (chefferie)				
+1182	25	TSHUAPA					142	BOKUNGU	458	Lolaka (secteur)				
+1183	25	TSHUAPA					142	BOKUNGU	459	Loombo (secteur)				
+1184	25	TSHUAPA					142	BOKUNGU	460	Luando (secteur)				
+1185	25	TSHUAPA					142	BOKUNGU	461	Luayi (secteur)				
+1186	25	TSHUAPA					142	BOKUNGU	285	Bokungu (commune)				
+1187	25	TSHUAPA					142	BOKUNGU	0		0		0	
+1188	25	TSHUAPA					143	DJOLU	462	Djolu (secteur)				
+1189	25	TSHUAPA					143	DJOLU	463	Lingomo (secteur)				
+1190	25	TSHUAPA					143	DJOLU	464	Luo (secteur)				
+1191	25	TSHUAPA					143	DJOLU	465	Yala (secteur)				
+1192	25	TSHUAPA					143	DJOLU	286	Djolu (commune)				
+1193	25	TSHUAPA					143	DJOLU	0		0		0	
+1194	25	TSHUAPA					144	IKELA	466	Lofome (secteur)				
+1195	25	TSHUAPA					144	IKELA	467	Loile (secteur)				
+1196	25	TSHUAPA					144	IKELA	468	Lokima (secteur)				
+1197	25	TSHUAPA					144	IKELA	469	Tshuapa (secteur)				
+1198	25	TSHUAPA					144	IKELA	470	Tumbenga (secteur)				
+1199	25	TSHUAPA					144	IKELA	287	Ikela (commune)				
+1200	25	TSHUAPA					144	IKELA	0		0		0	
+1201	25	TSHUAPA					145	MONKOTO	471	Bianga (secteur)				
+1202	25	TSHUAPA					145	MONKOTO	473	Monkoto (secteur)				
+1203	25	TSHUAPA					145	MONKOTO	472	Nongo (secteur)				
+1204	25	TSHUAPA					145	MONKOTO	288	Monkoto (commune)				
+1205	25	TSHUAPA					145	MONKOTO	0		0		0	
+1418	25	TSHUAPA	0		0		0		0		0		0	
+1206	26	KINSHASA	25	KINSHASA	289	Bandalungwa								
+1207	26	KINSHASA	25	KINSHASA	0									
+1208	26	KINSHASA	25	KINSHASA	290	Barumbu								
+1209	26	KINSHASA	25	KINSHASA	291	Bumbu								
+1210	26	KINSHASA	25	KINSHASA	292	Gombe								
+1211	26	KINSHASA	25	KINSHASA	293	Kalamu								
+1212	26	KINSHASA	25	KINSHASA	294	Kasavubu								
+1213	26	KINSHASA	25	KINSHASA	295	Kimbanseke								
+1214	26	KINSHASA	25	KINSHASA	296	Kinshasa								
+1215	26	KINSHASA	25	KINSHASA	297	Kintambo								
+1216	26	KINSHASA	25	KINSHASA	298	Kisenso								
+1217	26	KINSHASA	25	KINSHASA	299	Lemba								
+1218	26	KINSHASA	25	KINSHASA	300	Limete								
+1219	26	KINSHASA	25	KINSHASA	301	Lingwala								
+1220	26	KINSHASA	25	KINSHASA	302	Makala								
+1221	26	KINSHASA	25	KINSHASA	304	Maluku								
+1222	26	KINSHASA	25	KINSHASA	305	Masina								
+1223	26	KINSHASA	25	KINSHASA	306	Matete								
+1224	26	KINSHASA	25	KINSHASA	307	Mont-Ngafula								
+1225	26	KINSHASA	25	KINSHASA	308	Ndjili								
+1226	26	KINSHASA	25	KINSHASA	309	Ngaba								
+1227	26	KINSHASA	25	KINSHASA	310	Ngaliema								
+1228	26	KINSHASA	25	KINSHASA	311	Ngiri-Ngiri								
+1229	26	KINSHASA	25	KINSHASA	312	Nsele								
+1230	26	KINSHASA	25	KINSHASA	313	Selembao								
+1419	26	KINSHASA	0		0		0		0		0		0	
+1231	1	BAS-UELE					1	AKETI	0	Itimbiri (commune)				
+1232	1	BAS-UELE					1	AKETI	0	Ngbongade (commune)				
+1233	1	BAS-UELE					1	AKETI	0	Tinda (commune)				
+1234	1	BAS-UELE					2	ANGO	0	Dakwa (commune)				
+1235	1	BAS-UELE					3	BAMBESA	0	Zobia (commune)				
+1236	1	BAS-UELE					4	BONDO	0	Uele (commune)				
+1237	1	BAS-UELE					4	BONDO	0	Zagili (commune)				
+1238	1	BAS-UELE					4	BONDO	0	Bambili (commune)				
+1239	1	BAS-UELE					4	BONDO	0	Tobola (commune)				
+1240	1	BAS-UELE					4	BONDO	0	Baye (commune)				
+1241	1	BAS-UELE					4	BONDO	0	Bili (commune)				
+1242	1	BAS-UELE					4	BONDO	0	Monga (commune)				
+1243	1	BAS-UELE					4	BONDO	0	Ndu (commune)				
+1244	1	BAS-UELE					5	BUTA	0	Titule (commune)				
+1245	1	BAS-UELE					5	BUTA	0	Mobati-Boyele (secteur)				
+1246	2	EQUATEUR					7	BASANKUSU	0	Bokakata (commune)				
+1247	2	EQUATEUR					7	BASANKUSU	0	Baenga (commune)				
+1248	4	HAUT-KATANGA					22	PUETO	0	Kilwa (commune)				
+1249	5	HAUT-UELE					25	DUNGU	0	Bomokadi (commune)				
+1250	5	HAUT-UELE					25	DUNGU	0	Dungu-Uye (commune)				
+1251	5	HAUT-UELE					25	DUNGU	0	Ngilima (commune)				
+1252	5	HAUT-UELE					26	FARADJE	0	Makoko (commune)				
+1253	5	HAUT-UELE					29	WAMBA	0	Anaolite (commune)				
+1254	5	HAUT-UELE					29	WAMBA	0	Nepoko (commune)				
+1255	5	HAUT-UELE					29	WAMBA	0	Ibambi (commune)				
+1256	5	HAUT-UELE					30	WATSA	0	Gandza (commune)				
+1257	5	HAUT-UELE					30	WATSA	0	Kibali (commune)				
+1258	5	HAUT-UELE					30	WATSA	0	Mongoro (commune)				
+1259	5	HAUT-UELE					30	WATSA	0	Mongali (commune)				
+1260	5	HAUT-UELE					146	ABA	0	Laskuri (commune)				
+1261	5	HAUT-UELE					146	ABA	0	Sambala (commune)				
+1262	5	HAUT-UELE					146	ABA	0	Zungbi (commune)				
+1263	7	KASAI					36	KAMONYA	0	Kamwesha (commune)				
+1264	7	KASAI					36	KAMONYA	0	Kamako (commune)				
+1265	7	KASAI					36	KAMONYA	0	Ngombe (commune)				
+1266	7	KASAI					36	KAMONYA	0	Samwanda (commune)				
+1267	7	KASAI					37	LUEBO	0	Bipatu (commune)				
+1268	7	KASAI					37	LUEBO	0	Kasenga (commune)				
+1269	7	KASAI					37	LUEBO	0	Kaluebo (commune)				
+1270	7	KASAI					40	ILEBO	0	Bembe (commune)				
+1271	7	KASAI					40	ILEBO	0	Kasai (commune)				
+1272	7	KASAI					40	ILEBO	0	Lutshwadi (commune)				
+1273	7	KASAI					40	ILEBO	0	Puntsha (commune)				
+1274	7	KASAI					40	ILEBO	0	Mapangu (commune)				
+1275	8	KASAI CENTRAL					42	DIBAYA	0	Lukula (commune)				
+1276	8	KASAI CENTRAL					42	DIBAYA	0	Tshimakaka (commune)				
+1277	8	KASAI CENTRAL					42	DIBAYA	0	Tshiamyi (commune)				
+1278	8	KASAI CENTRAL					43	DIMBELENGE	0	Bana Ba Ntumba (commune)				
+1279	8	KASAI CENTRAL					43	DIMBELENGE	0	Katende (commune)				
+1280	8	KASAI CENTRAL					43	DIMBELENGE	0	Kabwishi (commune)				
+1281	8	KASAI CENTRAL					43	DIMBELENGE	0	Masuika (commune)				
+1282	8	KASAI CENTRAL					43	DIMBELENGE	0	Mukamba (commune)				
+1283	8	KASAI CENTRAL					44	KAZUMBA	0	Luemba (commune)				
+1284	8	KASAI CENTRAL					45	LUIZA	0	Yangala (commune)				
+1285	8	KASAI CENTRAL					45	LUIZA	0	Tulume (commune)				
+1286	11	KWANGO					61	KENGE	0	Misele (commune)				
+1287	11	KWANGO					61	KENGE	0	Pont Kwango (commune)				
+1288	11	KWANGO					62	POPOKABAKA	0	Kabama (commune)				
+1289	11	KWANGO					62	POPOKABAKA	0	Kisoma (commune)				
+1290	11	KWANGO					64	KASONGO-LUNDA	0	Pelende (commune)				
+1291	11	KWANGO					64	KASONGO-LUNDA	0	Imona (commune)				
+1292	11	KWANGO					64	KASONGO-LUNDA	0	Kituadi (commune)				
+1293	11	KWANGO					64	KASONGO-LUNDA	0	Kumbila (commune)				
+1294	11	KWANGO					65	KAHEMBA	0	Kwilu (commune)				
+1295	11	KWANGO					65	KAHEMBA	0	Lutshima (commune)				
+1296	11	KWANGO					65	KAHEMBA	0	Ntshakal (commune)				
+1297	12	KWILU					66	BAGATA	0	Misay (commune)				
+1298	12	KWILU					67	BULUNGU	0	Kabangu (commune)				
+1299	12	KWILU					67	BULUNGU	0	Kwilu (commune)				
+1300	12	KWILU					67	BULUNGU	0	Lukonzi (commune)				
+1301	12	KWILU					67	BULUNGU	0	Bujiombe-Lusanga (commune)				
+1302	12	KWILU					67	BULUNGU	0	Djuma (commune)				
+1303	12	KWILU					68	GUNGU	0	Kakobola (commune)				
+1304	12	KWILU					68	GUNGU	0	Kwilu (commune)				
+1305	12	KWILU					68	GUNGU	0	Lukwila (commune)				
+1306	12	KWILU					68	GUNGU	0	Congo (commune)				
+1307	12	KWILU					69	IDIOFA	0	Manding (commune)				
+1308	12	KWILU					69	IDIOFA	0	Mosanga (commune)				
+1309	12	KWILU					69	IDIOFA	0	Eolo (commune)				
+1310	12	KWILU					69	IDIOFA	0	Kalo (commune)				
+1311	12	KWILU					69	IDIOFA	0	Menki (commune)				
+1312	12	KWILU					69	IDIOFA	0	Isabo (commune)				
+1313	12	KWILU					69	IDIOFA	0	Piopio (commune)				
+1314	12	KWILU					69	IDIOFA	0	Ipala (commune)				
+1315	12	KWILU					69	IDIOFA	0	Ndambu (commune)				
+1316	12	KWILU					69	IDIOFA	0	Tshenza (commune)				
+1317	12	KWILU					70	MASI-MANIMBA	0	Bwalavula (commune)				
+1318	12	KWILU					70	MASI-MANIMBA	0	Masamvunga (commune)				
+1319	12	KWILU					70	MASI-MANIMBA	0	Pay-Kongila (commune)				
+1320	12	KWILU					70	MASI-MANIMBA	0	Bibembo (commune)				
+1321	12	KWILU					70	MASI-MANIMBA	0	Kangamiese (commune)				
+1322	12	KWILU					70	MASI-MANIMBA	0	Lukuala (commune)				
+1323	14	LUALABA					76	DILOLO	0	Kisenge (commune)				
+1324	15	MAI-NDOMBE					83	KUTU	0	Ikongo (commune)				
+1325	15	MAI-NDOMBE					83	KUTU	0	Semondane (commune)				
+1326	15	MAI-NDOMBE					84	BOLOBO	0	Ngo-Bolobo (commune)				
+1327	15	MAI-NDOMBE					84	BOLOBO	0	Mpongonzoli (commune)				
+1328	15	MAI-NDOMBE					84	BOLOBO	0	Bateke-Nord (commune)				
+1329	15	MAI-NDOMBE					85	OSHWE	0	Mbiem (commune)				
+1330	17	MONGALA					96	BONGANDANGA	0	Budja (commune)				
+1331	17	MONGALA					96	BONGANDANGA	0	Ebonda (commune)				
+1332	17	MONGALA					96	BONGANDANGA	0	Lotele (commune)				
+1333	17	MONGALA					97	BUMBA	0	Monama (commune)				
+1334	17	MONGALA					98	LISALA	0	Lisala (commune)				
+1335	21	SUD-KIVU					115	FIZI	0	Baraka Centre (commune)				
+1336	21	SUD-KIVU					115	FIZI	0	Kalundja (commune)				
+1337	21	SUD-KIVU					115	FIZI	0	Katanga (commune)				
+1338	21	SUD-KIVU					115	FIZI	0	Minembwe (commune)				
+1339	21	SUD-KIVU					115	FIZI	0	Lilimba-Misis (commune)				
+1340	21	SUD-KIVU					115	FIZI	0	Kavinvira (commune)				
+1341	21	SUD-KIVU					118	MWENGA	0	Bitanga (commune)				
+1342	21	SUD-KIVU					118	MWENGA	0	Mobale (commune)				
+1343	21	SUD-KIVU					119	SHABUNDA	0	Kizikibi (commune)				
+1344	21	SUD-KIVU					119	SHABUNDA	0	Lupimbi (commune)				
+1345	21	SUD-KIVU					119	SHABUNDA	0	Nyalubue (commune)				
+1346	21	SUD-KIVU					119	SHABUNDA	0	Lulingu (chefferie)				
+1347	21	SUD-KIVU					121	UVIRA	0	Kalundu (commune)				
+1348	21	SUD-KIVU					121	UVIRA	0	Kavinvira I (commune)				
+1349	21	SUD-KIVU					121	UVIRA	0	Kamanyola (commune)				
+1350	21	SUD-KIVU					121	UVIRA	0	Swima (commune)				
+1351	21	SUD-KIVU					122	WALUNGU	0	Nyangezi (commune)				
+1352	23	TANGANYIKA					129	KONGOLO	0	Kabinda (commune)				
+1353	23	TANGANYIKA					129	KONGOLO	0	Lukuga (commune)				
+1354	23	TANGANYIKA					129	KONGOLO	0	Kangoyi (commune)				
+1355	23	TANGANYIKA					129	KONGOLO	0	Lualaba (commune)				
+1356	23	TANGANYIKA					129	KONGOLO	0	Bena-Muhona (chefferie)				
+1357	24	TSHOPO					133	ISANGI	0	Fleuve (commune)				
+1358	24	TSHOPO					133	ISANGI	0	Logami (commune)				
+1359	24	TSHOPO					133	ISANGI	0	Lodo (commune)				
+1360	24	TSHOPO					136	BASOKO	0	Bandu-Lokutu (commune)				
+1361	24	TSHOPO					136	BASOKO	0	Bandole (commune)				
+1362	24	TSHOPO					136	BASOKO	0	Lokumele (commune)				
+1363	24	TSHOPO					136	BASOKO	0	Nzombo (commune)				
+1364	24	TSHOPO					139	YAHUMA	0	Mosite (commune)				
+1365	6	ITURI					31	DJUGU	0	Fataki (commune)				
+1366	6	ITURI					31	DJUGU	0	Ndrele (commune)				
+1367	6	ITURI					32	IRUMU	0	Bahema d'Irumu (secteur)				
+1368	6	ITURI					32	IRUMU	0	Bahema-Mitego (secteur)				
+1369	6	ITURI					32	IRUMU	0	Walese Vonkutu (secteur)				
+1370	6	ITURI					32	IRUMU	0	Andisoma (secteur)				
+1371	6	ITURI					32	IRUMU	0	Babelebe (secteur)				
+1372	6	ITURI					33	MAHAGI	0	Djegu (commune)				
+1373	6	ITURI					33	MAHAGI	0	Kpadruma (commune)				
+1374	6	ITURI					33	MAHAGI	0	Nioki (commune)				
+1375	6	ITURI					33	MAHAGI	0	Tadu (commune)				
+1376	6	ITURI					33	MAHAGI	0	Kwong'a (commune)				
+1377	6	ITURI					33	MAHAGI	0	Mamba (commune)				
+1378	6	ITURI					33	MAHAGI	0	Ridha (commune)				
+1379	6	ITURI					35	ARU	0	Abaa (commune)				
+1380	6	ITURI					35	ARU	0	Autsai (commune)				
+1381	6	ITURI					35	ARU	0	Essete (commune)				
+1382	6	ITURI					35	ARU	0	Pele (commune)				
+1383	6	ITURI					35	ARU	0	Mongbwalu (commune)				
+1384	6	ITURI					35	ARU	0	Musaba (commune)				
+1385	6	ITURI					35	ARU	0	Plito-Yalala (commune)				
+1386	6	ITURI					147	ARIWARA	0	Abbe Gonzalalves (commune)				
+1387	6	ITURI					147	ARIWARA	0	Apaa (commune)				
+1388	6	ITURI					147	ARIWARA	0	Djaudjau (commune)				
+1389	6	ITURI					147	ARIWARA	0	Raoul'Aliti (commune)				
+1390	6	ITURI					148	LINGBOKOLO	0	Adi (commune)				
+1391	6	ITURI					148	LINGBOKOLO	0	Arie (commune)				
+1392	6	ITURI					148	LINGBOKOLO	0	Kumuru-Ezorili (commune)				
+1393	26	KINSHASA						<n/a>						
+1394	99	<Etranger>	0	ci-dessous	0	Indiquer pays/ville							

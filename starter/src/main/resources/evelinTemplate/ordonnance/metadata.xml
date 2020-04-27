@@ -1,0 +1,251 @@
+<metadata>
+#General
+ORDONOT$$ACT.ACT_DECL_DATE=20190923|                                                                    <!-- Date courante -->
+ORDONOT$$ACT.ACT_DECL_HOUR=1337|                                                                        <!-- Heure courante -->
+ORDONOT$$ACT.ACT_NUM=|                                                                                  <!-- Aucun numéro d'acte -->
+ORDONOT$$ORDON_NOT.DATE_REQUETE=20190508|                                                               <!-- Date de saisie du dossier sinon la date d'arrivée du dossier dans le BO au format AAAAMMJJ-->
+
+ORDONOT$$SUIVI.DOSSIER=1|                                                                               <!-- Mettre toujours 1 -->
+ORDONOT$$SUIVI.NUM_DOSSIER_RN=324266|                                                                   <!-- Numéro du dossier -->
+ORDONOT$$SUIVI.DATE_DOSSIER_RN=20190810|                                                                <!-- Dete du dossier -->
+ORDONOT$$SUIVI.COM_DOSSIER_RN=|                                                                         <!-- Commentaire du dossier -->
+
+ORDONOT$$REGISTRE.REG_YEAR=2019|                                                                        <!-- Année de l'évènement, ici l'année de la date de saisie du dossier sinon celle de la date d'arrivée du dossier dans le BO  -->
+
+#Demandeur
+ORDONOT$$REQUERANT.FIRSTNAME=|                                                                          <!-- Données concernant le demandeur (requérant) du dossier -->
+ORDONOT$$REQUERANT.IND_SEX=M|
+ORDONOT$$REQUERANT.INFO_DOM.CITY=Limete##KINSHASA##CONGO, RÉPUBLIQUE DÉMOCRATIQUE DU|                   <!-- C'est cette valeur qui détermine le code office -->
+ORDONOT$$REQUERANT.INFO_DOM.FORWARDING_ADDRESS=117 mpila|
+ORDONOT$$REQUERANT.INFO_NAI.EVT_ADDRESS.CITY=kimpanga mbangi####|
+ORDONOT$$REQUERANT.INFO_NAI.EVT_DATE=19750813|
+ORDONOT$$REQUERANT.NAME=Kalafana katshu|
+ORDONOT$$REQUERANT.NATIONALITY=Congolaise|
+ORDONOT$$REQUERANT.OCCUPATION=enseignant|
+ORDONOT$$REQUERANT.SEXE=M|
+ORDONOT$$SUIVI.DEMANDEUR_QUALITE=Père|                                                                  <!-- Mettre la valeur du BO Père ou Mère ou Mendataire ou Autre -->
+ORDONOT$$SUIVI.DEMANDEUR_PARENTE=Père|                                                                  <!-- Mettre la valeur du BO Père ou Mère ou Oncle ou tante etc... -->
+
+ORDONOT$$ORDON_NOT.AUTRE_QUALITE_DEM=|                                                                  <!-- Rempli si QUALITE_DEM=2 (exemple Oncle, tante , grand-mère etc... -->
+ORDONOT$$ORDON_NOT.QUALITE_DEM=1|                                                                       <!-- 0=Mère 1=Père 2=Autre -->
+ORDONOT$$REQUERANT.TELEPHONE=|
+ORDONOT$$REQUERANT.EMAIL=|
+
+
+
+#Enfants
+ORDONOT$$ENFANT_1.FIRSTNAME=|                                                                           <!-- Les données du premier enfant du dossier -->
+ORDONOT$$ENFANT_1.IND_SEX=M|
+ORDONOT$$ENFANT_1.INFO_NAI.EVT_ADDRESS.CITY=Kinshasa##KINSHASA##CONGO, RÉPUBLIQUE DÉMOCRATIQUE DU|
+ORDONOT$$ENFANT_1.INFO_NAI.EVT_DATE=20060516|
+ORDONOT$$ENFANT_1.INFO_NAI.EVT_HOUR=|
+ORDONOT$$ENFANT_1.NAME=Kalafana sini|
+ORDONOT$$ENFANT_1.SEXE=M|
+ORDONOT$$ENFANT_1.SCOLARISE=1|                                                                          <!-- Mettre ce qui était avant dans ORDONOT$$SUIVI.ENFANT_SCOLARISE=1 au niveau de chaque enfant 1 à 5 maxi -->
+
+ORDONOT$$ENFANT_2.FIRSTNAME=|                                                                           <!-- Les données du second enfant du dossier -->
+ORDONOT$$ENFANT_2.IND_SEX=M|
+ORDONOT$$ENFANT_2.INFO_NAI.EVT_ADDRESS.CITY=Kinshasa##KINSHASA##CONGO, RÉPUBLIQUE DÉMOCRATIQUE DU|
+ORDONOT$$ENFANT_2.INFO_NAI.EVT_DATE=20100510|
+ORDONOT$$ENFANT_2.INFO_NAI.EVT_HOUR=|
+ORDONOT$$ENFANT_2.NAME=Kalafana mbondo|
+ORDONOT$$ENFANT_2.SEXE=M|
+ORDONOT$$ENFANT_2.SCOLARISE=0|                                                                          <!-- Mettre ce qui était avant dans ORDONOT$$SUIVI.ENFANT_SCOLARISE=1 au niveau de chaque enfant 1 à 5 maxi -->
+
+ORDONOT$$ENFANT_3.FIRSTNAME=|                                                                           <!-- Les données du troisième enfant du dossier -->
+ORDONOT$$ENFANT_3.IND_SEX=M|
+ORDONOT$$ENFANT_3.INFO_NAI.EVT_ADDRESS.CITY=Kinshasa##KINSHASA##CONGO, RÉPUBLIQUE DÉMOCRATIQUE DU|
+ORDONOT$$ENFANT_3.INFO_NAI.EVT_DATE=20121129|
+ORDONOT$$ENFANT_3.INFO_NAI.EVT_HOUR=|
+ORDONOT$$ENFANT_3.NAME=Kalafana mbuta|
+ORDONOT$$ENFANT_3.SEXE=M|
+ORDONOT$$ENFANT_3.SCOLARISE=0|                                                                          <!-- Mettre ce qui était avant dans ORDONOT$$SUIVI.ENFANT_SCOLARISE=1 au niveau de chaque enfant 1 à 5 maxi -->
+
+ORDONOT$$ENFANT_4.FIRSTNAME=|                                                                           <!-- Les données du quatrième enfant du dossier -->
+ORDONOT$$ENFANT_4.IND_SEX=F|
+ORDONOT$$ENFANT_4.INFO_NAI.EVT_ADDRESS.CITY=Kinshasa##KINSHASA##CONGO, RÉPUBLIQUE DÉMOCRATIQUE DU|
+ORDONOT$$ENFANT_4.INFO_NAI.EVT_DATE=20140714|
+ORDONOT$$ENFANT_4.INFO_NAI.EVT_HOUR=|
+ORDONOT$$ENFANT_4.NAME=kalafana lidie|
+ORDONOT$$ENFANT_4.SEXE=F|
+ORDONOT$$ENFANT_4.SCOLARISE=1|                                                                          <!-- Mettre ce qui était avant dans ORDONOT$$SUIVI.ENFANT_SCOLARISE=1 au niveau de chaque enfant 1 à 5 maxi -->
+
+ORDONOT$$ENFANT_5.FIRSTNAME=|                                                                           <!-- Les données du quatrième enfant du dossier -->
+ORDONOT$$ENFANT_5.IND_SEX=F|
+ORDONOT$$ENFANT_5.INFO_NAI.EVT_ADDRESS.CITY=Kinshasa##KINSHASA##CONGO, RÉPUBLIQUE DÉMOCRATIQUE DU|
+ORDONOT$$ENFANT_5.INFO_NAI.EVT_DATE=20140714|
+ORDONOT$$ENFANT_5.INFO_NAI.EVT_HOUR=|
+ORDONOT$$ENFANT_5.NAME=kalafana lidie|
+ORDONOT$$ENFANT_5.SEXE=F|
+ORDONOT$$ENFANT_5.SCOLARISE=1|
+    #Mere
+ORDONOT$$MERE_1.FIRSTNAME=|                                                                             <!-- Les données la mère sont identiques pour tous les enfants du dossier -->
+ORDONOT$$MERE_1.IND_SEX=F|
+ORDONOT$$MERE_1.INFO_DOM.CITY=Limete##KINSHASA##CONGO, RÉPUBLIQUE DÉMOCRATIQUE DU|
+ORDONOT$$MERE_1.INFO_DOM.FORWARDING_ADDRESS=117 mpila|
+ORDONOT$$MERE_1.INFO_NAI.EVT_ADDRESS.CITY=Matadi##MATADI##CONGO, RÉPUBLIQUE DÉMOCRATIQUE DU|
+ORDONOT$$MERE_1.INFO_NAI.EVT_DATE=19720627|
+ORDONOT$$MERE_1.NAME=Nkufi mukangwebe|
+ORDONOT$$MERE_1.NATIONALITY=Congolaise|
+ORDONOT$$MERE_1.OCCUPATION=ménagère|
+ORDONOT$$MERE_1.SEXE=F|
+ORDONOT$$MERE_1.TELEPHONE=|
+ORDONOT$$MERE_1.EMAIL=|
+
+ORDONOT$$MERE_2.FIRSTNAME=|                                                                             <!-- Les données la mère sont identiques pour tous les enfants du dossier. A ne remplir que si l'enfant_2 est rempli -->
+ORDONOT$$MERE_2.IND_SEX=F|
+ORDONOT$$MERE_2.INFO_DOM.CITY=Limete##KINSHASA##CONGO, RÉPUBLIQUE DÉMOCRATIQUE DU|
+ORDONOT$$MERE_2.INFO_DOM.FORWARDING_ADDRESS=117 mpila|
+ORDONOT$$MERE_2.INFO_NAI.EVT_ADDRESS.CITY=Matadi##MATADI##CONGO, RÉPUBLIQUE DÉMOCRATIQUE DU|
+ORDONOT$$MERE_2.INFO_NAI.EVT_DATE=19720627|
+ORDONOT$$MERE_2.NAME=Nkufi mukangwebe|
+ORDONOT$$MERE_2.NATIONALITY=Congolaise|
+ORDONOT$$MERE_2.OCCUPATION=ménagère|
+ORDONOT$$MERE_2.SEXE=F|
+ORDONOT$$MERE_2.TELEPHONE=|
+ORDONOT$$MERE_2.EMAIL=|
+
+ORDONOT$$MERE_3.FIRSTNAME=|                                                                             <!-- Les données la mère sont identiques pour tous les enfants du dossier. A ne remplir que si l'enfant_3 est rempli -->
+ORDONOT$$MERE_3.IND_SEX=F|
+ORDONOT$$MERE_3.INFO_DOM.CITY=Limete##KINSHASA##CONGO, RÉPUBLIQUE DÉMOCRATIQUE DU|
+ORDONOT$$MERE_3.INFO_DOM.FORWARDING_ADDRESS=117 mpila|
+ORDONOT$$MERE_3.INFO_NAI.EVT_ADDRESS.CITY=Matadi##MATADI##CONGO, RÉPUBLIQUE DÉMOCRATIQUE DU|
+ORDONOT$$MERE_3.INFO_NAI.EVT_DATE=19720627|
+ORDONOT$$MERE_3.NAME=Nkufi mukangwebe|
+ORDONOT$$MERE_3.NATIONALITY=Congolaise|
+ORDONOT$$MERE_3.OCCUPATION=ménagère|
+ORDONOT$$MERE_3.SEXE=F|
+ORDONOT$$MERE_3.TELEPHONE=|
+ORDONOT$$MERE_3.EMAIL=|
+
+ORDONOT$$MERE_4.FIRSTNAME=|                                                                             <!-- Les données la mère sont identiques pour tous les enfants du dossier. A ne remplir que si l'enfant_4 est rempli -->
+ORDONOT$$MERE_4.IND_SEX=F|
+ORDONOT$$MERE_4.INFO_DOM.CITY=Limete##KINSHASA##CONGO, RÉPUBLIQUE DÉMOCRATIQUE DU|
+ORDONOT$$MERE_4.INFO_DOM.FORWARDING_ADDRESS=117 mpila|
+ORDONOT$$MERE_4.INFO_NAI.EVT_ADDRESS.CITY=Matadi##MATADI##CONGO, RÉPUBLIQUE DÉMOCRATIQUE DU|
+ORDONOT$$MERE_4.INFO_NAI.EVT_DATE=19720627|
+ORDONOT$$MERE_4.NAME=Nkufi mukangwebe|
+ORDONOT$$MERE_4.NATIONALITY=Congolaise|
+ORDONOT$$MERE_4.OCCUPATION=ménagère|
+ORDONOT$$MERE_4.SEXE=F|
+ORDONOT$$MERE_4.TELEPHONE=|
+ORDONOT$$MERE_4.EMAIL=|
+
+
+ORDONOT$$MERE_5.FIRSTNAME=|                                                                             <!-- Les données la mère sont identiques pour tous les enfants du dossier. A ne remplir que si l'enfant_4 est rempli -->
+ORDONOT$$MERE_5.IND_SEX=F|
+ORDONOT$$MERE_5.INFO_DOM.CITY=Limete##KINSHASA##CONGO, RÉPUBLIQUE DÉMOCRATIQUE DU|
+ORDONOT$$MERE_5.INFO_DOM.FORWARDING_ADDRESS=117 mpila|
+ORDONOT$$MERE_5.INFO_NAI.EVT_ADDRESS.CITY=Matadi##MATADI##CONGO, RÉPUBLIQUE DÉMOCRATIQUE DU|
+ORDONOT$$MERE_5.INFO_NAI.EVT_DATE=19720627|
+ORDONOT$$MERE_5.NAME=Nkufi mukangwebe|
+ORDONOT$$MERE_5.NATIONALITY=Congolaise|
+ORDONOT$$MERE_5.OCCUPATION=ménagère|
+ORDONOT$$MERE_5.SEXE=F|
+ORDONOT$$MERE_5.TELEPHONE=|
+ORDONOT$$MERE_5.EMAIL=|
+
+    #Pere
+ORDONOT$$PERE_1.FIRSTNAME=|                                                                             <!-- Les données du père sont identiques pour tous les enfants du dossier. A ne remplir que si l'enfant_1 est rempli et si il y a un père -->
+ORDONOT$$PERE_1.IND_SEX=M|
+ORDONOT$$PERE_1.INFO_DOM.CITY=Limete##KINSHASA##CONGO, RÉPUBLIQUE DÉMOCRATIQUE DU|
+ORDONOT$$PERE_1.INFO_DOM.FORWARDING_ADDRESS=117 mpila|
+ORDONOT$$PERE_1.INFO_NAI.EVT_ADDRESS.CITY=kimpanga mbangi####|
+ORDONOT$$PERE_1.INFO_NAI.EVT_DATE=19750813|
+ORDONOT$$PERE_1.NAME=Kalafana katshu|
+ORDONOT$$PERE_1.NATIONALITY=Congolaise|
+ORDONOT$$PERE_1.OCCUPATION=enseignant|
+ORDONOT$$PERE_1.SEXE=M|
+ORDONOT$$PERE_1.TELEPHONE=|
+ORDONOT$$PERE_1.EMAIL=|
+
+ORDONOT$$PERE_2.FIRSTNAME=|                                                                             <!-- Les données du père sont identiques pour tous les enfants du dossier. A ne remplir que si l'enfant_1 est rempli et si il y a un père -->
+ORDONOT$$PERE_2.IND_SEX=M|
+ORDONOT$$PERE_2.INFO_DOM.CITY=Limete##KINSHASA##CONGO, RÉPUBLIQUE DÉMOCRATIQUE DU|
+ORDONOT$$PERE_2.INFO_DOM.FORWARDING_ADDRESS=117 mpila|
+ORDONOT$$PERE_2.INFO_NAI.EVT_ADDRESS.CITY=kimpanga mbangi####|
+ORDONOT$$PERE_2.INFO_NAI.EVT_DATE=19750813|
+ORDONOT$$PERE_2.NAME=Kalafana katshu|
+ORDONOT$$PERE_2.NATIONALITY=Congolaise|
+ORDONOT$$PERE_2.OCCUPATION=enseignant|
+ORDONOT$$PERE_2.SEXE=M|
+ORDONOT$$PERE_2.TELEPHONE=|
+ORDONOT$$PERE_2.EMAIL=|
+
+ORDONOT$$PERE_3.FIRSTNAME=|                                                                             <!-- Les données du père sont identiques pour tous les enfants du dossier. A ne remplir que si l'enfant_1 est rempli et si il y a un père -->
+ORDONOT$$PERE_3.IND_SEX=M|
+ORDONOT$$PERE_3.INFO_DOM.CITY=Limete##KINSHASA##CONGO, RÉPUBLIQUE DÉMOCRATIQUE DU|
+ORDONOT$$PERE_3.INFO_DOM.FORWARDING_ADDRESS=117 mpila|
+ORDONOT$$PERE_3.INFO_NAI.EVT_ADDRESS.CITY=kimpanga mbangi####|
+ORDONOT$$PERE_3.INFO_NAI.EVT_DATE=19750813|
+ORDONOT$$PERE_3.NAME=Kalafana katshu|
+ORDONOT$$PERE_3.NATIONALITY=Congolaise|
+ORDONOT$$PERE_3.OCCUPATION=enseignant|
+ORDONOT$$PERE_3.SEXE=M|
+ORDONOT$$PERE_3.TELEPHONE=|
+ORDONOT$$PERE_3.EMAIL=|
+
+ORDONOT$$PERE_4.FIRSTNAME=|                                                                             <!-- Les données du père sont identiques pour tous les enfants du dossier. A ne remplir que si l'enfant_1 est rempli et si il y a un père -->
+ORDONOT$$PERE_4.IND_SEX=M|
+ORDONOT$$PERE_4.INFO_DOM.CITY=Limete##KINSHASA##CONGO, RÉPUBLIQUE DÉMOCRATIQUE DU|
+ORDONOT$$PERE_4.INFO_DOM.FORWARDING_ADDRESS=117 mpila|
+ORDONOT$$PERE_4.INFO_NAI.EVT_ADDRESS.CITY=kimpanga mbangi####|
+ORDONOT$$PERE_4.INFO_NAI.EVT_DATE=19750813|
+ORDONOT$$PERE_4.NAME=Kalafana katshu|
+ORDONOT$$PERE_4.NATIONALITY=Congolaise|
+ORDONOT$$PERE_4.OCCUPATION=enseignant|
+ORDONOT$$PERE_4.SEXE=M|
+ORDONOT$$PERE_4.TELEPHONE=|
+ORDONOT$$PERE_4.EMAIL=|
+
+ORDONOT$$PERE_5.FIRSTNAME=|                                                                             <!-- Les données du père sont identiques pour tous les enfants du dossier. A ne remplir que si l'enfant_1 est rempli et si il y a un père -->
+ORDONOT$$PERE_5.IND_SEX=M|
+ORDONOT$$PERE_5.INFO_DOM.CITY=Limete##KINSHASA##CONGO, RÉPUBLIQUE DÉMOCRATIQUE DU|
+ORDONOT$$PERE_5.INFO_DOM.FORWARDING_ADDRESS=117 mpila|
+ORDONOT$$PERE_5.INFO_NAI.EVT_ADDRESS.CITY=kimpanga mbangi####|
+ORDONOT$$PERE_5.INFO_NAI.EVT_DATE=19750813|
+ORDONOT$$PERE_5.NAME=Kalafana katshu|
+ORDONOT$$PERE_5.NATIONALITY=Congolaise|
+ORDONOT$$PERE_5.OCCUPATION=enseignant|
+ORDONOT$$PERE_5.SEXE=M|
+ORDONOT$$PERE_5.TELEPHONE=|
+ORDONOT$$PERE_5.EMAIL=|
+
+#Témoins
+ORDONOT$$WITNESS_1.FIRSTNAME=adolphe|                                                                   <!-- Données du premier témoin -->
+ORDONOT$$WITNESS_1.IND_SEX=I|
+ORDONOT$$WITNESS_1.INFO_DOM.CITY=Ndjili##KINSHASA##CONGO, RÉPUBLIQUE DÉMOCRATIQUE DU|
+ORDONOT$$WITNESS_1.INFO_DOM.FORWARDING_ADDRESS=12 motiene|
+ORDONOT$$WITNESS_1.INFO_NAI.EVT_ADDRESS.CITY=bonga yasa####|
+ORDONOT$$WITNESS_1.INFO_NAI.EVT_DATE=19870326|
+ORDONOT$$WITNESS_1.NAME=Mambu mabongo|
+ORDONOT$$WITNESS_1.NATIONALITY=Congolaise|
+ORDONOT$$WITNESS_1.OCCUPATION=enseignante|
+ORDONOT$$WITNESS_1.SEXE=I|
+
+ORDONOT$$WITNESS_2.FIRSTNAME=|                                                                          <!-- Données du deuxième témoin -->
+ORDONOT$$WITNESS_2.IND_SEX=I|
+ORDONOT$$WITNESS_2.INFO_DOM.CITY=Limete##KINSHASA##CONGO, RÉPUBLIQUE DÉMOCRATIQUE DU|
+ORDONOT$$WITNESS_2.INFO_DOM.FORWARDING_ADDRESS=15 mukoko|
+ORDONOT$$WITNESS_2.INFO_NAI.EVT_ADDRESS.CITY=Kinshasa##KINSHASA##CONGO, RÉPUBLIQUE DÉMOCRATIQUE DU|
+ORDONOT$$WITNESS_2.INFO_NAI.EVT_DATE=19750406|
+ORDONOT$$WITNESS_2.NAME=Imene nono|
+ORDONOT$$WITNESS_2.NATIONALITY=Congolaise|
+ORDONOT$$WITNESS_2.OCCUPATION=enseignante|
+ORDONOT$$WITNESS_2.SEXE=I|
+
+#Ecole
+ORDONOT$$SUIVI.ECOLE=1                                                                                  <!-- Mettre toujours 1 -->
+ORDONOT$$SUIVI.NOM_ECOLE=CS STELLE MATUTINA Prim|                                                       <!-- Données concernant l'école -->
+ORDONOT$$SUIVI.INFO_ECOLE.CITY=Barumbu##KINSHASA##CONGO, RÉPUBLIQUE DÉMOCRATIQUE DU|
+ORDONOT$$SUIVI.PROV_EDUC_ECOLE=KINSHASA LUKUNGA|
+ORDONOT$$SUIVI.SOUS_DIV_ECOLE=S/D DE BARUMBU|
+ORDONOT$$SUIVI.TYPE_ECOLE=1|                                                                            <!-- 0=Maternelle 1=Primaire 2=Les deux -->
+ORDONOT$$SUIVI.DISTRICT_ECOLE=|
+ORDONOT$$SUIVI.QUARTIER_ECOLE=|
+ORDONOT$$SUIVI.AGENT=Makonda vanse lauriane|
+ORDONOT$$SUIVI.SUPERVISEUR=Superviseur_16|
+ORDONOT$$SUIVI.INFO_ECOLE.LATITUDE=-4,43767|
+ORDONOT$$SUIVI.INFO_ECOLE.LONGITUDE=15,35929
+
+</metadata>

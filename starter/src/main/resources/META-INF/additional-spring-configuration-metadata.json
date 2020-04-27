@@ -1,0 +1,68 @@
+{
+  "properties": [
+    {
+      "name": "spring.jpa.database.database-platform",
+      "type": "java.lang.String",
+      "description": "Description for spring.jpa.database.database-platform."
+    },
+    {
+      "name": "spring.jpa.database.generate-ddl",
+      "type": "java.lang.String",
+      "description": "Description for spring.jpa.database.generate-ddl."
+    },
+    {
+      "name": "spring.jpa.database.hibernate.ddl-auto",
+      "type": "java.lang.String",
+      "description": "Description for spring.jpa.database.hibernate.ddl-auto."
+    },
+    {
+      "name": "spring.jpa.database.open-in-view",
+      "type": "java.lang.String",
+      "description": "Description for spring.jpa.database.open-in-view."
+    },
+    {
+      "name": "spring.jpa.database.properties.hibernate.cache.use_query_cache",
+      "type": "java.lang.String",
+      "description": "Description for spring.jpa.database.properties.hibernate.cache.use_query_cache."
+    },
+    {
+      "name": "spring.jpa.database.properties.hibernate.cache.use_second_level_cache",
+      "type": "java.lang.String",
+      "description": "Description for spring.jpa.database.properties.hibernate.cache.use_second_level_cache."
+    },
+    {
+      "name": "spring.jpa.database.properties.hibernate.default_schema",
+      "type": "java.lang.String",
+      "description": "Description for spring.jpa.database.properties.hibernate.default_schema."
+    },
+    {
+      "name": "spring.jpa.database.properties.hibernate.dialect",
+      "type": "java.lang.String",
+      "description": "Description for spring.jpa.database.properties.hibernate.dialect."
+    },
+    {
+      "name": "spring.jpa.database.properties.hibernate.generate_statistics",
+      "type": "java.lang.String",
+      "description": "Description for spring.jpa.database.properties.hibernate.generate_statistics."
+    },
+    {
+      "name": "spring.jpa.database.properties.hibernate.naming.implicit-strategy",
+      "type": "java.lang.String",
+      "description": "Description for spring.jpa.database.properties.hibernate.naming.implicit-strategy."
+    },
+    {
+      "name": "spring.jpa.database.properties.hibernate.naming.physical-strategy",
+      "type": "java.lang.String",
+      "description": "Description for spring.jpa.database.properties.hibernate.naming.physical-strategy."
+    },
+    {
+      "name": "spring.jpa.database.properties.hibernate.temp.use_jdbc_metadata_defaults",
+      "type": "java.lang.String",
+      "description": "Description for spring.jpa.database.properties.hibernate.temp.use_jdbc_metadata_defaults."
+    },
+    {
+      "name": "spring.jpa.database.show-sql",
+      "type": "java.lang.String",
+      "description": "Description for spring.jpa.database.show-sql."
+    }
+  ] }

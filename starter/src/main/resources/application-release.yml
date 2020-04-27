@@ -1,0 +1,74 @@
+digitech:
+    app:
+        createSuperv: 1
+        defautSupervPassword: DgtSuperv6!
+        decrypt: true
+    evelin:
+        deleteCertif: 1
+        ecwExport: E:/Digitech/ExchangeApp/Production/ECHANGE/ZIP
+        ecwExportUpdate: 1
+        enableSynchroEvelin: 1
+        folderMode: 0
+        frequence: 60000
+        maxExport: 500000
+        nbSynchroEvelin: 300
+        tempExport: E:/RDC/Ecoles/Temp
+
+        # 1 si synchro active, sinon 0
+        enableSynchroEvelinFromDir: 1
+        # Chemin de dépot des zip
+        evelinSynchroDirectory: E:/RDC/Ecoles/Zip
+        # Frequence de scan du repertoire en ms
+        frequenceFromDir: 600000
+        typeActe: NAISSANCE
+
+    storage:
+        upload-dir: E:/RDC/Ecoles/Datas
+        upload-dir-KO: E:/RDC/Ecoles/Datas/KO
+
+    mail:
+        client_id: 614568952021-n1s7c5tc7om2sm9qifsnhug6gpegbuu2.apps.googleusercontent.com
+        project_id: gestionmail-257310
+        auth_uri: https://accounts.google.com/o/oauth2/auth
+        token_uri: https://oauth2.googleapis.com/token
+        auth_provider_x509_cert_url: https://www.googleapis.com/oauth2/v1/certs
+        client_secret: LK2NJ4FM62PrtI92_RPHRdAN
+        redirect_uris: urn:ietf:wg:oauth:2.0:oob, http://localhost
+        tokens_directory_path: E:/tokenMail
+        mailToZipError: romaric.roussel@digitech.fr
+        mailFromZipError: dgtd.ecole@gmail.com
+        mailSubjectZipError: Erreur de zip
+        path_attachment: E:/RDC/Ecoles/Zip
+        port: 8089
+        application_name: GestionMail
+
+logging:
+    file: logs/ecoleWS.log
+    file.max-history: 10
+    file.max-size: 10MB
+    level:
+        com:
+            dgtd:
+                ecole:
+                    ws: INFO
+                    ws.util: ERROR
+                service_mail: INFO
+        org:
+            hibernate: ERROR
+            springframework: ERROR
+            springframework.security.web.FilterChainProxy: ERROR
+    pattern:
+        console: ''
+        file: '%d{dd-MM-yyyy HH:mm:ss.SSS} [%thread] %-5level %logger{36}.%M - %msg%n'
+spring:
+    datasource:
+        password: Rdc01*
+        url: jdbc:postgresql://localhost:5440/Digitech?createDatabaseIfNotExist=true&characterEncoding=UTF-8
+        username: DigitechRDC
+    jmx:
+        default-domain: dossierEcoleWS
+    jpa:
+        properties:
+            hibernate:
+                default_schema: ecoles
+        show-sql: true

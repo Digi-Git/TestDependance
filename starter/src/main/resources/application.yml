@@ -1,0 +1,124 @@
+digitech:
+    user:
+        defautAdmin: digitech
+        defautPassword: Digitech655!
+    app:
+        application-name: Ecole WS
+        defautSupervPassword: DgtSuperv6!
+        tempExport: E:/RDC/Ecoles/Temp
+        mail-to: celine.charpentier@digitech.fr
+        nb-for-request: 100
+        max-export: 500000
+        update: false
+        error:
+            raiseTime: 0 45 16 * * *
+    excel:
+        excel-local-dir: E:/RDC/Ecoles/Excel
+        maxExport: 500000
+
+    evelin:
+        textePays: CONGO, RÉPUBLIQUE DÉMOCRATIQUE DU
+        texteNonDefini: Non définie
+        ordoTag: ORDONOT$$
+        naiTag: TRNAISNOT$$
+        decesTag:
+        idEtranger: 1394
+        deleteCertif: 1
+        ecwExport: E:/Digitech/ExchangeApp/Production/ECHANGE/ZIP
+        ecwExportUpdate: 1
+        folderMode: 0
+        tempExport: E:/RDC/Ecoles/Temp
+        frequence: 600000
+        maxExport: 500000
+        nbSynchroEvelin: 100
+        # 1 si synchro active, sinon 0
+        enableSynchroEvelinFromDir: 0
+        # Chemin de dépot des zip
+        evelinSynchroDirectory: ${user.home}/Ecoles/Zip
+        # Frequence de scan du repertoire en ms
+        frequenceFromDir: 600000
+        delete-decrypted-file: true
+        typeActe: NAISSANCE
+
+    storage:
+        filename:   datas.json
+        upload-dir: ${user.home}/Ecoles/Datas
+        success-folder: /Enregistrements
+        ko-folder: /Erreurs
+        upload-dir-naissance: E:/RDC/Ecoles/Datas_Naissance
+        ordoTag: ORDONOT$$
+
+    mail:
+        client_id: 614568952021-n1s7c5tc7om2sm9qifsnhug6gpegbuu2.apps.googleusercontent.com
+        project_id: gestionmail-257310
+        auth_uri: https://accounts.google.com/o/oauth2/auth
+        token_uri: https://oauth2.googleapis.com/token
+        auth_provider_x509_cert_url: https://www.googleapis.com/oauth2/v1/certs
+        client_secret: LK2NJ4FM62PrtI92_RPHRdAN
+        redirect_uris: urn:ietf:wg:oauth:2.0:oob, http://localhost
+        tokens_directory_path: E:/tokenMail
+        mailToZipError: romaric.roussel@digitech.fr
+        mailFromZipError: dgtd.ecole@gmail.com
+        mailSubjectZipError: Erreur de zip
+        path_attachment: E:/RDC/Ecoles/Zip
+
+info:
+    project:
+        version: '@project.version@'
+security:
+    oauth2:
+        resource:
+            filter-order: 3
+spring:
+    datasource:
+        password: Rdc01*
+        url: jdbc:postgresql://localhost:5432/Digitech?createDatabaseIfNotExist=true&characterEncoding=UTF-8
+        username: DigitechRDC
+        driver-class-name: org.postgresql.Driver
+    banner:
+        charset: UTF-8
+    jmx:
+        default-domain: dossierEcoleWS
+    jpa:
+        database: postgresql
+        database-platform: org.hibernate.dialect.PostgreSQL9Dialect
+        generate-ddl: false
+        hibernate:
+            ddl-auto: none
+            use-new-id-generator-mappings: true
+        open-in-view: false
+        properties:
+            hibernate:
+                cache:
+                    use_query_cache: false
+                    use_second_level_cache: false
+                default_schema: ecoles
+                dialect: org.hibernate.dialect.PostgreSQLDialect
+                generate_statistics: false
+                naming:
+                    implicit-strategy: org.springframework.boot.orm.jpa.hibernate.SpringImplicitNamingStrategy
+                    physical-strategy: org.springframework.boot.orm.jpa.hibernate.SpringPhysicalNamingStrategy
+                temp:
+                    use_jdbc_metadata_defaults: false
+        show-sql: false
+    output:
+        ansi:
+            enabled: ALWAYS
+    profiles:
+        active: '@activatedProperties@'
+    servlet:
+        multipart:
+            enabled: true
+            file-size-threshold: 2KB
+    mail:
+        host: smtp.digitech.fr
+        port: 25
+        username: celine.charpentier@digitech.fr
+        properties:
+            debug: true
+            mail:
+                smtp:
+                    auth: true
+                    starttls:
+                        enable: true
+        password:

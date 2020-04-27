@@ -1,0 +1,41 @@
+	<certificate>
+		<id>@@ID@@</id>																<!-- Identifiant unique de l'acte (compteur interne) -->
+		<number></number>															<!-- n° de l'acte (brouillon on met rien) -->
+		<type>OTHER</type>															<!-- Type standard (ex BIR, ...) ou OTHER si custom -->
+		<customType>ORDN</customType>												<!-- customType si les types d'actes sont non standard  -->
+		<template>ORDONOT</template>												<!-- Template de l'acte dans cityweb (ici toujours TRNAISNOT) -->
+		<persons>
+			@@PERSONS@@
+		</persons>
+		<eventAddress>
+			<city>
+				<title>@@PROVINCE_TITLE@@</title>						<!-- Province en MAJUSCULES -->
+				<county>@@PROVINCE_COUNTY@@</county>					<!-- Province en minuscules -->
+				<country>CD</country>						<!-- PAYS -->
+			</city>
+		</eventAddress>
+		<eventDate>@@EVENT_DATE@@</eventDate>											<!-- Date de saisie du dossier sinon la date d'arrivée du dossier dans le BO -->
+		<register>
+			<office>@@OFFICE@@</office>												<!-- Identifiant de la mairie permettant de la lier à la mairie de Kinshasa dans ExchangeApp --><!-- Identifiant de la mairie permettant de la lier à la bonne mairie dans ExchangeApp
+                                                             Remplacer XXXXXXXXX par KINKOLE si la commune du domicile du demandeur est : MALUKU ou N'SELE ou MASINA ou KIMBANSEKE ou N'DJILI
+                                                             Remplacer XXXXXXXXX par GOMBE si la commune du domicile du demandeur est : GOMBE ou KINSHASA ou LINGWALA ou BARUMBU ou MAKALA ou NGIRI NGIRI
+                                                             Remplacer XXXXXXXXX par MATETE si la commune du domicile du demandeur est : LIMETE ou MATETE ou NGABA ou KISENSO ou LEMBA
+                                                             Remplacer XXXXXXXXX par KALAMU si la commune du domicile du demandeur est : KALAMU ou KASA VUBU ou BUMBU ou SELEMBAO ou BANDALUNGWA
+                                                             Remplacer XXXXXXXXX par NGALIEMA si la commune du domicile du demandeur est : NGALIEMA ou MONT NGAFULA ou KINTAMBO
+                                                             Remplacer XXXXXXXXX par AUTRE dans tous les autres cas  -->
+
+			<registerType>OTHER</registerType>											<!-- Type standard (ex BIR, ...) ou OTHER si custom -->
+			<customType>ORDN</customType>												<!-- customType si les types d'actes sont non standard  -->
+			<year>@@EVENT_ANNEE@@</year>												<!-- Année du registre (année de l'evnement) -->
+			<title/>
+			<status>OPENED</status>														<!-- Status du registre (CLOSED = Fermé) -->
+		</register>
+		<validationDate>99999999999999</validationDate>									<!-- Date de validation de l'acte, pour RDC toujours brouillon donc 99999999999999 -->
+		<isImage>false</isImage>														<!-- Acte image, pour RDC toujours à true -->
+		<canceled>false</canceled>														<!-- Acte annulé, pour RDC toujours à false -->
+		<blockedOnCopy>false</blockedOnCopy>											<!-- Acte bloqué en copie intégrale, pour RDC toujours à false -->
+		<blockedOnExtract>false</blockedOnExtract>										<!-- Acte bloqué pour les extraits, pour RDC toujours à false -->
+		<imageFilePath></imageFilePath>													<!-- Nom de l'image tif de l'acte, si pas d'image laisser vide -->
+    	<metadata>@@METADATAS@@</metadata>
+	</certificate>
+

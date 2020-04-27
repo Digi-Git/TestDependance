@@ -1,0 +1,32 @@
+	<certificate>
+		<id>@@ID@@</id>																<!-- Identifiant unique de l'acte (compteur interne) -->
+		<number></number>															<!-- n° de l'acte (brouillon on met rien) -->
+		<type>BIR</type>															<!-- Type de l'acte (ici toujours BIR pour naissance) -->
+		<template>TRNAISNOT</template>												<!-- Template de l'acte dans cityweb (ici toujours TRNAISNOT) -->
+		<persons>
+			@@PERSONS@@
+		</persons>
+		<eventAddress>
+			<city>
+				<title>@@PROVINCE_TITLE@@</title>			<!-- Province en MAJUSCULES -->
+				<county>@@PROVINCE_COUNTY@@</county>		<!-- Province en minuscules	-->
+				<country>CD</country>
+			</city>
+		</eventAddress>
+		<eventDate>@@EVENT_DATE@@</eventDate>										<!-- Date de l'évènement, ici la date de naissance de l'intéressé (enfant) au format AAAMMJJ000000 -->
+		<register>
+			<office>@@OFFICE@@</office>												<!-- Identifiant de la mairie permettant de la lier à la mairie de Kinshasa dans ExchangeApp -->
+			<registerType>BIR</registerType>											<!-- Type du registre (Ici toujours BIR = registre des naissances) -->
+			<year>@@EVENT_ANNEE@@</year>											<!-- Année du registre (doit correspondre à l'année de naissance de l'intéressé(e) -->
+			<title/>
+			<status>OPENED</status>														<!-- Status du registre (CLOSED = Fermé) -->
+		</register>
+		<validationDate>99999999999999</validationDate>									<!-- Date de validation de l'acte, pour RDC toujours brouillon donc 99999999999999 -->
+		<isImage>false</isImage>														<!-- Acte image, pour RDC toujours à true -->
+		<canceled>false</canceled>														<!-- Acte annulé, pour RDC toujours à false -->
+		<blockedOnCopy>false</blockedOnCopy>											<!-- Acte bloqué en copie intégrale, pour RDC toujours à false -->
+		<blockedOnExtract>false</blockedOnExtract>										<!-- Acte bloqué pour les extraits, pour RDC toujours à false -->
+		<imageFilePath></imageFilePath>													<!-- Nom de l'image tif de l'acte, si pas d'image laisser vide -->
+    <metadata>@@METADATAS@@</metadata>
+	</certificate>
+

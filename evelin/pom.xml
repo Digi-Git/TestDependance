@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <parent>
+        <groupId>org.springframework.boot</groupId>
+        <artifactId>spring-boot-starter-parent</artifactId>
+        <version>2.1.6.RELEASE</version>
+        <relativePath/>
+    </parent>
+    <modelVersion>4.0.0</modelVersion>
+
+    <artifactId>evelin</artifactId>
+    <groupId>com.dgtd</groupId>
+    <version>0.9.16 10-01-20</version>
+    <packaging>jar</packaging>
+
+    <dependencies>
+
+        <!-- librairies internes        -->
+        <dependency>
+            <groupId>com.dgtd</groupId>
+            <artifactId>common</artifactId>
+            <version>0.9.14 16-10-19</version>
+        </dependency>
+
+        <dependency>
+            <groupId>com.dgtd</groupId>
+            <artifactId>rdc</artifactId>
+            <version>0.9.14 16-10-19</version>
+        </dependency>
+
+        <dependency>
+            <groupId>com.dgtd.ecole.ws</groupId>
+            <artifactId>initial</artifactId>
+            <version>0.9.14 16-10-19</version>
+        </dependency>
+
+        <dependency>
+            <groupId>com.dgtd</groupId>
+            <artifactId>evelin_common</artifactId>
+            <version>0.9.16 10-01-20</version>
+        </dependency>
+
+        <!-- librairies externes        -->
+
+        <dependency>
+            <groupId>org.springframework</groupId>
+            <artifactId>spring-context</artifactId>
+            <version>5.2.0.RELEASE</version>
+            <scope>compile</scope>
+        </dependency>
+        <dependency>
+            <groupId>org.springframework</groupId>
+            <artifactId>spring-tx</artifactId>
+            <version>5.2.0.RELEASE</version>
+            <scope>compile</scope>
+        </dependency>
+        <dependency>
+            <groupId>org.slf4j</groupId>
+            <artifactId>slf4j-api</artifactId>
+            <version>2.0.0-alpha1</version>
+            <scope>compile</scope>
+        </dependency>
+        <dependency>
+            <groupId>org.springframework.boot</groupId>
+            <artifactId>spring-boot</artifactId>
+            <version>2.1.9.RELEASE</version>
+            <scope>compile</scope>
+        </dependency>
+    </dependencies>
+
+</project>

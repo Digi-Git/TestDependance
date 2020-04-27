@@ -1,0 +1,93 @@
+digitech:
+    app:
+        dataStore: ${user.home}/RDC/Ecoles/Datas
+        createSuperv: 1
+        defautSupervPassword: DgtSuperv6!
+        decrypt: true
+    evelin:
+        deleteCertif: 1
+        ecwExport: ${user.home}/RDC/Ecoles/Ecw
+        ecwExportUpdate: 1
+        enableSynchroEvelin: 1
+        folderMode: 0
+        frequence: 10000
+        maxExport: 100000
+        nbSynchroEvelin: 300
+        tempExport: ${user.home}/RDC/Ecoles/Temp
+        # 1 si synchro active, sinon 0
+        enableSynchroEvelinFromDir: 1
+        # Chemin de dépot des zip
+        evelinSynchroDirectory: ${user.home}/RDC/Ecoles/Zip
+        # Frequence de scan du repertoire en ms
+        frequenceFromDir: 10000
+        typeActe: NAISSANCE
+
+    excel:
+        excel-local-dir: ${user.home}/RDC/Ecoles/Excel
+    storage:
+        upload-dir: ${user.home}/RDC/Ecoles/Datas
+        success-folder: /Enregistrements
+        ko-folder: /Erreurs
+
+    mail:
+        client_id: 614568952021-n1s7c5tc7om2sm9qifsnhug6gpegbuu2.apps.googleusercontent.com
+        project_id: gestionmail-257310
+        auth_uri: https://accounts.google.com/o/oauth2/auth
+        token_uri: https://oauth2.googleapis.com/token
+        auth_provider_x509_cert_url: https://www.googleapis.com/oauth2/v1/certs
+        client_secret: LK2NJ4FM62PrtI92_RPHRdAN
+        redirect_uris: urn:ietf:wg:oauth:2.0:oob, http://localhost
+        tokens_directory_path: E:/tokenMail
+        path_attachment: E:/RDC/Ecoles/Zip
+        port: 8089
+        mailToZipError: romaric.roussel@digitech.fr
+        mailFromZipError: dgtd.ecole@gmail.com
+        mailSubjectZipError: Erreur de zip
+        application_name: GestionMail
+
+
+logging:
+    file: ${logging.path}/ecoleWS.log
+    file.max-history: 20
+    file.max-size: 10MB
+    level:
+        com:
+            dgtd:
+                ecole:
+                    ws: INFO
+                    ws.util: ERROR
+                rdc:    ERROR
+                evelin: DEBUG
+                service_mail: INFO
+        org:
+            hibernate: ERROR
+            hibernate.SQL: ERROR
+            hibernate.type.descriptor.sql.BasicBinder: ERROR
+            springframework: ERROR
+            springframework.security.web.FilterChainProxy: ERROR
+
+    path: logs
+    pattern:
+        console: '%d{dd-MM-yyyy HH:mm:ss.SSS} %cyan([%thread]) %highlight(%-5level)
+            %logger.%M - %msg%n'
+        file: '%d{dd-MM-yyyy HH:mm:ss.SSS} [%thread] %-5level %logger{36}.%M - %msg%n'
+server:
+    port: 8080
+    servlet:
+        context-path: /api
+        session:
+            timeout: 30m
+    tomcat:
+        accesslog:
+            rename-on-rotate: true
+spring:
+    datasource:
+        password: Rdc01*
+        url: jdbc:postgresql://localhost:5432/Digitech?createDatabaseIfNotExist=true&characterEncoding=UTF-8
+        username: DigitechRDC
+        driver-class-name: org.postgresql.Driver
+    jpa:
+        properties:
+            hibernate:
+                default_schema: ecoles
+        show-sql: false

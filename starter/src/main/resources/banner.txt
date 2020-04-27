@@ -1,0 +1,13 @@
+${AnsiColor.WHITE}=====================================================================
+  ${AnsiColor.CYAN} ____  ${AnsiColor.GREEN}              _                _      ${AnsiColor.CYAN} ____  ${AnsiColor.GREEN}
+  ${AnsiColor.CYAN}|  _  \${AnsiColor.GREEN}(_)       (_)| |              | |     ${AnsiColor.CYAN}|  _  \${AnsiColor.GREEN}
+  ${AnsiColor.CYAN}| | | |${AnsiColor.GREEN} _   __ _  _ | |_   ___   ___ | |__   ${AnsiColor.CYAN}| | | |${AnsiColor.GREEN}  ___ __   __
+  ${AnsiColor.CYAN}| | | |${AnsiColor.GREEN}| | / _` || || __| / _ \ / __|| '_ \  ${AnsiColor.CYAN}| | | |${AnsiColor.GREEN} / _ \\ \ / /
+  ${AnsiColor.CYAN}| |/ / ${AnsiColor.GREEN}| || (_| || || |_ |  __/| (__ | | | | ${AnsiColor.CYAN}| |/ / ${AnsiColor.GREEN}|  __/ \ V /
+  ${AnsiColor.CYAN}|___/  ${AnsiColor.GREEN}|_| \__, ||_| \__| \___| \___||_| |_| ${AnsiColor.CYAN}|___/  ${AnsiColor.GREEN} \___|  \_/
+  ${AnsiColor.CYAN}       ${AnsiColor.GREEN}     __/ |
+  ${AnsiColor.CYAN}       ${AnsiColor.GREEN}    |___/
+${AnsiColor.WHITE}=====================================================================
+
+${AnsiColor.BLUE}:: Ecoles WS version ${info.project.version} [ build profil : ${spring.profiles.active} ] :: Running Spring Boot ${spring-boot.version} ::
+:: http://www.digitech.fr ::${AnsiColor.DEFAULT}

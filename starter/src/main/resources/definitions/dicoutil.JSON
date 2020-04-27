@@ -1,0 +1,403 @@
+{
+  "ouinon": [
+    {
+      "id": "1",
+      "nom": "Oui",
+      "defaut": "true",
+      "ordre": "1",
+      "devtag": "1"
+    },
+    {
+      "id": "2",
+      "nom": "Non",
+      "defaut": "false",
+      "ordre": "2",
+      "devtag": "2"
+    }
+  ],
+  "type_qualite": [
+    {
+      "id": "3",
+      "nom": "Père",
+      "defaut": "true",
+      "ordre": "1",
+      "devtag": "4"
+    },
+    {
+      "id": "4",
+      "nom": "Mère",
+      "defaut": "false",
+      "ordre": "2",
+      "devtag": "3"
+    },
+    {
+      "id": "5",
+      "nom": "Mandataire (indiquer le lien avec l'enfant)",
+      "defaut": "false",
+      "ordre": "3",
+      "devtag": "1"
+    },
+	{
+      "id": "6",
+      "nom": "Autre (indiquer le lien avec l'enfant)",
+      "defaut": "false",
+      "ordre": "4",
+      "devtag": "2"
+    }
+  ],
+   "type_sexe": [
+    {
+      "id": "18",
+      "nom": "Masculin",
+      "defaut": "true",
+      "ordre": "1",
+      "devtag": "1"
+    },
+    {
+      "id": "19",
+      "nom": "Féminin",
+      "defaut": "false",
+      "ordre": "2",
+      "devtag": "2"
+    }
+  ],
+  "type_profession": [
+    {
+      "id": "7",
+      "nom": "Agriculteur",
+      "defaut": "false",
+      "ordre": "1",
+      "devtag": "0"
+    },
+    {
+      "id": "8",
+      "nom": "Artisan",
+      "defaut": "false",
+      "ordre": "2",
+      "devtag": "0"
+    },
+    {
+      "id": "9",
+      "nom": "Commerçant et assimilé",
+      "defaut": "true",
+      "ordre": "3",
+      "devtag": "0"
+    },
+    {
+      "id": "10",
+      "nom": "Cadre de la fonction publique",
+      "defaut": "false",
+      "ordre": "4",
+      "devtag": "0"
+    },
+    {
+      "id": "43",
+      "nom": "Professeurs, instituteurs et assimilés",
+      "defaut": "false",
+      "ordre": "5",
+      "devtag": "0"
+    },
+    {
+      "id": "44",
+      "nom": "Professions de la santé et du travail social",
+      "defaut": "false",
+      "ordre": "6",
+      "devtag": "0"
+    },
+    {
+      "id": "45",
+      "nom": "Professions administratives de la fonction publique",
+      "defaut": "false",
+      "ordre": "7",
+      "devtag": "0"
+    },
+    {
+      "id": "46",
+      "nom": "Techniciens",
+      "defaut": "false",
+      "ordre": "8",
+      "devtag": "0"
+    },
+    {
+      "id": "47",
+      "nom": "Policiers et militaires",
+      "defaut": "false",
+      "ordre": "9",
+      "devtag": "0"
+    },
+    {
+      "id": "48",
+      "nom": "Ouvriers",
+      "defaut": "false",
+      "ordre": "10",
+      "devtag": "0"
+    },
+    {
+      "id": "49",
+      "nom": "Chauffeurs",
+      "defaut": "false",
+      "ordre": "11",
+      "devtag": "0"
+    },
+    {
+      "id": "11",
+      "nom": "Autre",
+      "defaut": "false",
+      "ordre": "12",
+      "devtag": "1"
+    }
+  ],
+  "type_nationalite": [
+    {
+      "id": "12",
+      "nom": "Américaine",
+      "defaut": "false",
+      "ordre": "1",
+      "devtag": "0"
+    },
+    {
+      "id": "13",
+      "nom": "Angolaise",
+      "defaut": "false",
+      "ordre": "2",
+      "devtag": "0"
+    },
+    {
+      "id": "14",
+      "nom": "Allemande",
+      "defaut": "false",
+      "ordre": "3",
+      "devtag": "0"
+    },
+    {
+      "id": "15",
+      "nom": "Belge",
+      "defaut": "false",
+      "ordre": "4",
+      "devtag": "0"
+    },
+    {
+      "id": "27",
+      "nom": "Britannique",
+      "defaut": "false",
+      "ordre": "5",
+      "devtag": "0"
+    },
+    {
+      "id": "28",
+      "nom": "Burundaise",
+      "defaut": "false",
+      "ordre": "6",
+      "devtag": "0"
+    },
+    {
+      "id": "29",
+      "nom": "Canadienne",
+      "defaut": "false",
+      "ordre": "7",
+      "devtag": "0"
+    },
+    {
+      "id": "30",
+      "nom": "Centrafricaine",
+      "defaut": "false",
+      "ordre": "8",
+      "devtag": "0"
+    },
+    {
+      "id": "16",
+      "nom": "Congolaise",
+      "defaut": "true",
+      "ordre": "9",
+      "devtag": "0"
+    },
+    {
+      "id": "31",
+      "nom": "Française",
+      "defaut": "false",
+      "ordre": "10",
+      "devtag": "0"
+    },	
+    {
+      "id": "32",
+      "nom": "Grecque",
+      "defaut": "false",
+      "ordre": "11",
+      "devtag": "0"
+    },	
+    {
+      "id": "33",
+      "nom": "Italienne",
+      "defaut": "false",
+      "ordre": "12",
+      "devtag": "0"
+    },	
+    {
+      "id": "34",
+      "nom": "Ougandaise",
+      "defaut": "false",
+      "ordre": "13",
+      "devtag": "0"
+    },	
+    {
+      "id": "35",
+      "nom": "Portugaise",
+      "defaut": "false",
+      "ordre": "14",
+      "devtag": "0"
+    },	
+    {
+      "id": "36",
+      "nom": "Sud-Africaine",
+      "defaut": "false",
+      "ordre": "15",
+      "devtag": "0"
+    },	
+    {
+      "id": "37",
+      "nom": "Tanzanienne",
+      "defaut": "false",
+      "ordre": "16",
+      "devtag": "0"
+    },	
+    {
+      "id": "38",
+      "nom": "Roumaine",
+      "defaut": "false",
+      "ordre": "17",
+      "devtag": "0"
+    },	
+    {
+      "id": "39",
+      "nom": "Rwandaise",
+      "defaut": "false",
+      "ordre": "18",
+      "devtag": "0"
+    },	
+    {
+      "id": "40",
+      "nom": "Soudanaise",
+      "defaut": "false",
+      "ordre": "19",
+      "devtag": "0"
+    },	
+    {
+      "id": "41",
+      "nom": "Zambienne",
+      "defaut": "false",
+      "ordre": "20",
+      "devtag": "0"
+    },	
+    {
+      "id": "42",
+      "nom": "Autre",
+      "defaut": "false",
+      "ordre": "21",
+      "devtag": "1"
+    }
+  ],
+  "type_personne": [
+    {
+      "id": "20",
+      "nom": "Demandeur",
+      "defaut": "True",
+      "ordre": "1",
+      "devtag": "1"
+    },
+    {
+      "id": "21",
+      "nom": "Père",
+      "defaut": "false",
+      "ordre": "2",
+      "devtag": "0"
+    },
+    {
+      "id": "22",
+      "nom": "Mère",
+      "defaut": "false",
+      "ordre": "3",
+      "devtag": "0"
+    },
+    {
+      "id": "23",
+      "nom": "Témoin 1",
+      "defaut": "false",
+      "ordre": "4",
+      "devtag": "0"
+    },
+    {
+      "id": "24",
+      "nom": "Témoin 2",
+      "defaut": "false",
+      "ordre": "5",
+      "devtag": "0"
+    },
+    {
+      "id": "50",
+      "nom": "Interessé",
+      "defaut": "false",
+      "ordre": "5",
+      "devtag": "5"
+    },
+    {
+      "id": "51",
+      "nom": "Déclarant",
+      "defaut": "false",
+      "ordre": "6",
+      "devtag": "6"
+    }
+  ],
+  "type_formulaire": [
+    {
+      "id": "25",
+      "nom": "Ecole",
+      "defaut": "false",
+      "ordre": "1",
+      "devtag": "1"
+    },
+    {
+      "id": "26",
+      "nom": "Ecole en zone non accessible",
+      "defaut": "true",
+      "ordre": "2",
+      "devtag": "2"
+    }
+  ],
+    "type_matrimonial": [
+      {
+        "id": "52",
+        "nom": "Veuf(ve)",
+        "defaut": "false",
+        "ordre": "3",
+        "devtag": "0"
+      },
+      {
+        "id": "53",
+        "nom": "Marié",
+        "defaut": "true",
+        "ordre": "1",
+        "devtag": "1"
+      },
+      {
+        "id": "54",
+        "nom": "Divorcé",
+        "defaut": "false",
+        "ordre": "2",
+        "devtag": "0"
+      },
+      {
+        "id": "55",
+        "nom": "Célibataire",
+        "defaut": "false",
+        "ordre": "3",
+        "devtag": "0"
+      },
+      {
+        "id": "56",
+        "nom": "Non marié",
+        "defaut": "false",
+        "ordre": "4",
+        "devtag": "2"
+      }
+  ]
+}

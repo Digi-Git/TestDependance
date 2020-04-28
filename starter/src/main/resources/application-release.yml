@@ -43,7 +43,7 @@ digitech:
         application_name: GestionMail
 
 logging:
-    file: logs/ecoleWS.log
+    file: logs/ecoleTestWS.log
     file.max-history: 10
     file.max-size: 10MB
     level:
